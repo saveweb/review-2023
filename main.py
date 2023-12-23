@@ -32,4 +32,5 @@ lines.sort()
 with open('README.md', 'w') as f:
   f.write(markdown+'计数: '+str(len(lines))+' 篇。\n\n')
   f.write('\n'.join(header))
+  f.write('\n')
   f.write('\n'.join(set(lines)))
