@@ -12,3 +12,4 @@
 | [期待と不安を同じくらい抱きしめて](https://blog.nekoq.top/blog/2023) | 1600 | [IA](https://web.archive.org/web/20231224034711/https://blog.nekoq.top/blog/2023) |
 | [过去的我已经死了——2023年度总结](https://blog.lzc256.com/post/summary-2023) | Null | [IA](https://web.archive.org/web/20231224034957/https://blog.lzc256.com/post/summary-2023) |
 | [📜 我的 2023：新的改变，新的成长，新的开始](https://blog.chyk.ink/2023/12/23/my-2023-summary/) | Null | [IA](https://web.archive.org/web/20231224035111/https://blog.chyk.ink/2023/12/23/my-2023-summary/) |
+| [常轨脱离 Misanthrope](https://krau.top/posts/mashed-potato-future) | Null | [IA](https://web.archive.org/web/20231224040237/https://krau.top/posts/mashed-potato-future) |
