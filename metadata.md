@@ -14,3 +14,4 @@
 | [📜 我的 2023：新的改变，新的成长，新的开始](https://blog.chyk.ink/2023/12/23/my-2023-summary/) | Null | [IA](https://web.archive.org/web/20231224035111/https://blog.chyk.ink/2023/12/23/my-2023-summary/) |
 | [常轨脱离 Misanthrope](https://krau.top/posts/mashed-potato-future) | Null | [IA](https://web.archive.org/web/20231224040237/https://krau.top/posts/mashed-potato-future) |
 | [2023 年概览](https://elizen.me/posts/2023/12/hello-2024/) | 534 | [IA](https://web.archive.org/web/20231224044111/https://elizen.me/posts/2023/12/hello-2024/) |
+| [2023年度总结](https://spacexcode.com/blog/yearly-summary/) | Null | [IA](http://web.archive.org/web/20231224163812/https://spacexcode.com/blog/yearly-summary/)
