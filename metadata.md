@@ -1,4 +1,4 @@
-| Article | Blog\_ID | Archive |
+![图片](https://github.com/taranakineko/review-2023/assets/55310629/eb275589-0cd1-4cfe-a9bc-d04cb451cf6a)| Article | Blog\_ID | Archive |
 | --- | --- | --- |
 | [2023年总结 – 巷子深的生活](https://szx.life/2023-nian-zong-jie/) | Null | [AT](https://archive.md/t7LOf) |
 | [回顾2023年：千磨万击还坚劲，任尔东西南北风 - 陶小桃Blog](https://www.52txr.cn/2023/2023zongjie.html) | 1615 | [AT](https://archive.md/1GBmp) |
@@ -13,3 +13,4 @@
 | [过去的我已经死了——2023年度总结](https://blog.lzc256.com/post/summary-2023) | Null | [IA](https://web.archive.org/web/20231224034957/https://blog.lzc256.com/post/summary-2023) |
 | [📜 我的 2023：新的改变，新的成长，新的开始](https://blog.chyk.ink/2023/12/23/my-2023-summary/) | Null | [IA](https://web.archive.org/web/20231224035111/https://blog.chyk.ink/2023/12/23/my-2023-summary/) |
 | [常轨脱离 Misanthrope](https://krau.top/posts/mashed-potato-future) | Null | [IA](https://web.archive.org/web/20231224040237/https://krau.top/posts/mashed-potato-future) |
+| [2023 年概览](https://elizen.me/posts/2023/12/hello-2024/) | 534 | [IA](https://web.archive.org/web/20231224044111/https://elizen.me/posts/2023/12/hello-2024/) |
