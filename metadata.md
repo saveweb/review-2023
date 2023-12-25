@@ -15,5 +15,6 @@
 | [常轨脱离 Misanthrope](https://krau.top/posts/mashed-potato-future) | Null | [IA](https://web.archive.org/web/20231224040237/https://krau.top/posts/mashed-potato-future) |
 | [2023 年概览](https://elizen.me/posts/2023/12/hello-2024/) | 534 | [IA](https://web.archive.org/web/20231224044111/https://elizen.me/posts/2023/12/hello-2024/) |
 | [2023年度总结](https://spacexcode.com/blog/yearly-summary/) | Null | [IA](http://web.archive.org/web/20231224163812/https://spacexcode.com/blog/yearly-summary/)
- 
 | [2023年的方方面面](https://omn.cc/archives/40.html) | Null | [IA](http://web.archive.org/web/20231225070507/https://omn.cc/archives/40.html) |
+| [2023年终总结](https://hijiangtao.github.io/2023/12/24/Letter-to-2023/) | 269 | [IA](http://web.archive.org/web/20231225073727/https://hijiangtao.github.io/2023/12/24/Letter-to-2023/) |
+| [2023（上篇）](https://www.edony.ink/2023/) | 1489 | [IA](http://web.archive.org/web/20231225074100/https://www.edony.ink/2023/) |
