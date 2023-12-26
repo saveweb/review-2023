@@ -20,3 +20,4 @@
 | [2023（上篇）- Shadow Walker 松烟阁](https://www.edony.ink/2023/) | 1489 | [IA](http://web.archive.org/web/20231225074100/https://www.edony.ink/2023/) |
 | [2023 年终个人总结 - Steve Sun](https://sund.site/posts/2023/2023-year-summary/) | 343 | [IA](http://web.archive.org/web/20231225233122/https://sund.site/posts/2023/2023-year-summary/) |
 | [2023年底总结：真正的真实是什么？ - 黄杰敏的博客](https://www.jiemin.com/archives/1714.html) | 979 | [IA](http://web.archive.org/web/20231226131208/https://www.jiemin.com/archives/1714.html) |
+| [2023，行则将至 - Magren](https://magren.cc/posts/2023-summary/) | 1708 | [IA](https://web.archive.org/web/20231226163426/https://magren.cc/posts/2023-summary/) |
