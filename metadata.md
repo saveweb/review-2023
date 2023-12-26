@@ -19,5 +19,4 @@
 | [2023年终总结](https://hijiangtao.github.io/2023/12/24/Letter-to-2023/) | 269 | [IA](http://web.archive.org/web/20231225073727/https://hijiangtao.github.io/2023/12/24/Letter-to-2023/) |
 | [2023（上篇）](https://www.edony.ink/2023/) | 1489 | [IA](http://web.archive.org/web/20231225074100/https://www.edony.ink/2023/) |
 | [2023 年终个人总结](https://sund.site/posts/2023/2023-year-summary/) | 343 | [IA](http://web.archive.org/web/20231225233122/https://sund.site/posts/2023/2023-year-summary/) |
-
-
+| [2023年底总结：真正的真实是什么？](https://www.jiemin.com/archives/1714.html) | 979 | [IA](http://web.archive.org/web/20231226131208/https://www.jiemin.com/archives/1714.html) |
