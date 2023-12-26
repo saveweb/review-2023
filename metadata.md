@@ -9,14 +9,14 @@
 | [Justin 的读书 2023 - 枫言枫语](https://justinyan.me/post/5845) | 1081 | [IA](https://web.archive.org/web/20231222080831/https://justinyan.me/post/5845) |
 | [2023年个人游戏总结 - Yuko's Blog](https://blog.amamiyayuuko.com/p/2023-game-annual-summary/) | 436 | [IA](https://web.archive.org/web/20231223185926/https://blog.amamiyayuuko.com/p/2023-game-annual-summary/) |
 | [2023年年终总结 – 7gugu's Blog](https://7gugu.com/index.php/2023/12/12/2023%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) | 1110 | [IA](https://web.archive.org/web/20231223190659/https://7gugu.com/index.php/2023/12/12/2023年年终总结/) |
-| [期待と不安を同じくらい抱きしめて](https://blog.nekoq.top/blog/2023) | 1600 | [IA](https://web.archive.org/web/20231224034711/https://blog.nekoq.top/blog/2023) |
-| [过去的我已经死了——2023年度总结](https://blog.lzc256.com/post/summary-2023) | Null | [IA](https://web.archive.org/web/20231224034957/https://blog.lzc256.com/post/summary-2023) |
-| [📜 我的 2023：新的改变，新的成长，新的开始](https://blog.chyk.ink/2023/12/23/my-2023-summary/) | Null | [IA](https://web.archive.org/web/20231224035111/https://blog.chyk.ink/2023/12/23/my-2023-summary/) |
-| [常轨脱离 Misanthrope](https://krau.top/posts/mashed-potato-future) | Null | [IA](https://web.archive.org/web/20231224040237/https://krau.top/posts/mashed-potato-future) |
-| [2023 年概览](https://elizen.me/posts/2023/12/hello-2024/) | 534 | [IA](https://web.archive.org/web/20231224044111/https://elizen.me/posts/2023/12/hello-2024/) |
-| [2023年度总结](https://spacexcode.com/blog/yearly-summary/) | Null | [IA](http://web.archive.org/web/20231224163812/https://spacexcode.com/blog/yearly-summary/)
-| [2023年的方方面面](https://omn.cc/archives/40.html) | Null | [IA](http://web.archive.org/web/20231225070507/https://omn.cc/archives/40.html) |
-| [2023年终总结](https://hijiangtao.github.io/2023/12/24/Letter-to-2023/) | 269 | [IA](http://web.archive.org/web/20231225073727/https://hijiangtao.github.io/2023/12/24/Letter-to-2023/) |
-| [2023（上篇）](https://www.edony.ink/2023/) | 1489 | [IA](http://web.archive.org/web/20231225074100/https://www.edony.ink/2023/) |
-| [2023 年终个人总结](https://sund.site/posts/2023/2023-year-summary/) | 343 | [IA](http://web.archive.org/web/20231225233122/https://sund.site/posts/2023/2023-year-summary/) |
-| [2023年底总结：真正的真实是什么？](https://www.jiemin.com/archives/1714.html) | 979 | [IA](http://web.archive.org/web/20231226131208/https://www.jiemin.com/archives/1714.html) |
+| [期待と不安を同じくらい抱きしめて - 湛蓝的调色板](https://blog.nekoq.top/blog/2023) | 1600 | [IA](https://web.archive.org/web/20231224034711/https://blog.nekoq.top/blog/2023) |
+| [过去的我已经死了——2023年度总结 - 落雨宸的时光机](https://blog.lzc256.com/post/summary-2023) | Null | [IA](https://web.archive.org/web/20231224034957/https://blog.lzc256.com/post/summary-2023) |
+| [📜 我的 2023：新的改变，新的成长，新的开始 - 千雪的咖啡厅](https://blog.chyk.ink/2023/12/23/my-2023-summary/) | Null | [IA](https://web.archive.org/web/20231224035111/https://blog.chyk.ink/2023/12/23/my-2023-summary/) |
+| [常轨脱离 Misanthrope - krau's blog](https://krau.top/posts/mashed-potato-future) | Null | [IA](https://web.archive.org/web/20231224040237/https://krau.top/posts/mashed-potato-future) |
+| [2023 年概览 - Elizen](https://elizen.me/posts/2023/12/hello-2024/) | 534 | [IA](https://web.archive.org/web/20231224044111/https://elizen.me/posts/2023/12/hello-2024/) |
+| [2023年度总结 - 太空编程](https://spacexcode.com/blog/yearly-summary/) | Null | [IA](http://web.archive.org/web/20231224163812/https://spacexcode.com/blog/yearly-summary/)
+| [2023·年度回顾 - NullPointerException](https://omn.cc/archives/40.html) | Null | [IA](http://web.archive.org/web/20231225070507/https://omn.cc/archives/40.html) |
+| [2023年终总结 - Joe’s Blog](https://hijiangtao.github.io/2023/12/24/Letter-to-2023/) | 269 | [IA](http://web.archive.org/web/20231225073727/https://hijiangtao.github.io/2023/12/24/Letter-to-2023/) |
+| [2023（上篇）- Shadow Walker 松烟阁](https://www.edony.ink/2023/) | 1489 | [IA](http://web.archive.org/web/20231225074100/https://www.edony.ink/2023/) |
+| [2023 年终个人总结 - Steve Sun](https://sund.site/posts/2023/2023-year-summary/) | 343 | [IA](http://web.archive.org/web/20231225233122/https://sund.site/posts/2023/2023-year-summary/) |
+| [2023年底总结：真正的真实是什么？ - 黄杰敏的博客](https://www.jiemin.com/archives/1714.html) | 979 | [IA](http://web.archive.org/web/20231226131208/https://www.jiemin.com/archives/1714.html) |
