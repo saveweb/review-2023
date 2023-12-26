@@ -23,3 +23,4 @@
 | [2023，行则将至 - Magren](https://magren.cc/posts/2023-summary/) | 1708 | [IA](https://web.archive.org/web/20231226163426/https://magren.cc/posts/2023-summary/) |
 | [2023 年终总结，致我不同寻常的 28 - Cali Castle](https://cali.so/blog/2023-year-in-review) | 1709 | [IA](https://web.archive.org/web/20231226171147/https://cali.so/blog/2023-year-in-review) |
 | [2023年终总结 - Thrive Blog](https://liuyuyang.net/index.php/archives/2195/) | 1710 | [IA](https://web.archive.org/web/20231226171705/https://liuyuyang.net/index.php/archives/2195/) |
+| [2023·年度回顾 - 印记](https://yinji.org/5198.html) | 1712 | [IA](https://web.archive.org/web/20231221051945/https://yinji.org/5198.html) |
