@@ -25,3 +25,4 @@
 | [2023年终总结 - Thrive Blog](https://liuyuyang.net/index.php/archives/2195/) | 1710 | [IA](https://web.archive.org/web/20231226171705/https://liuyuyang.net/index.php/archives/2195/) |
 | [2023·年度回顾 - 印记](https://yinji.org/5198.html) | 1712 | [IA](https://web.archive.org/web/20231221051945/https://yinji.org/5198.html) |
 | [2023年度回顾 - 海阔天空的云](https://www.hktkdy.com/2023/12/13/2023/2023/) | 1714 | [IA](https://web.archive.org/web/20231226173527/https://www.hktkdy.com/2023/12/13/2023/2023/) |
+| [2023年终总结 - jiajun的编程随想](https://jiajunhuang.com/articles/2023_12_26-good_bye_2023.md.html) | 146 | [IA](http://web.archive.org/web/20231227065326/https://jiajunhuang.com/articles/2023_12_26-good_bye_2023.md.html) |
