@@ -26,3 +26,7 @@
 | [2023·年度回顾 - 印记](https://yinji.org/5198.html) | 1712 | [IA](https://web.archive.org/web/20231221051945/https://yinji.org/5198.html) |
 | [2023年度回顾 - 海阔天空的云](https://www.hktkdy.com/2023/12/13/2023/2023/) | 1714 | [IA](https://web.archive.org/web/20231226173527/https://www.hktkdy.com/2023/12/13/2023/2023/) |
 | [2023年终总结 - jiajun的编程随想](https://jiajunhuang.com/articles/2023_12_26-good_bye_2023.md.html) | 146 | [IA](http://web.archive.org/web/20231227065326/https://jiajunhuang.com/articles/2023_12_26-good_bye_2023.md.html) |
+| [2023年终总结 与 2024新年展望 - YoungForest's blog](https://youngforest.github.io/2024/03/13/2023-summary-and-2024-resolutions/) | 1593 | [IA](http://web.archive.org/web/20231228025519/https://youngforest.github.io/2024/03/13/2023-summary-and-2024-resolutions/) |
+| [2023 年读书记录 - Yiran's Blog](https://zdyxry.github.io/2023/12/27/2023-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/) | 243 | [IA](http://web.archive.org/web/20231228030304/https://zdyxry.github.io/2023/12/27/2023-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/) |
+| [2023 年度微信读书报告 - 7Wate's Blog](https://blog.7wate.com/archives/2023-nian-du-wei-xin-du-shu-bao-gao) | 1507 | [IA](http://web.archive.org/web/20231228030629/https://blog.7wate.com/archives/2023-nian-du-wei-xin-du-shu-bao-gao) |
+
