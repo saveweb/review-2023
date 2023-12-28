@@ -29,4 +29,5 @@
 | [2023年终总结 与 2024新年展望 - YoungForest's blog](https://youngforest.github.io/2024/03/13/2023-summary-and-2024-resolutions/) | 1593 | [IA](http://web.archive.org/web/20231228025519/https://youngforest.github.io/2024/03/13/2023-summary-and-2024-resolutions/) |
 | [2023 年读书记录 - Yiran's Blog](https://zdyxry.github.io/2023/12/27/2023-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/) | 243 | [IA](http://web.archive.org/web/20231228030304/https://zdyxry.github.io/2023/12/27/2023-%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%AE%B0%E5%BD%95/) |
 | [2023 年度微信读书报告 - 7Wate's Blog](https://blog.7wate.com/archives/2023-nian-du-wei-xin-du-shu-bao-gao) | 1507 | [IA](http://web.archive.org/web/20231228030629/https://blog.7wate.com/archives/2023-nian-du-wei-xin-du-shu-bao-gao) |
-
+| [2023年，伯衡君的不严肃年终回顾 - Luckydesigner](https://www.luckydesigner.space/bohengkun-2023-interesting-year-end-summary/) | 1506 | [IA](http://web.archive.org/web/20231228232548/https://www.luckydesigner.space/bohengkun-2023-interesting-year-end-summary/) |
+| [我的 2023 年 - sjdhome blog ](https://www.sjdhome.com/blog/post/my-2023/) | 1652 | [IA](http://web.archive.org/web/20231228232250/https://www.sjdhome.com/blog/post/my-2023/) |
