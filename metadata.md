@@ -31,3 +31,4 @@
 | [2023 年度微信读书报告 - 7Wate's Blog](https://blog.7wate.com/archives/2023-nian-du-wei-xin-du-shu-bao-gao) | 1507 | [IA](http://web.archive.org/web/20231228030629/https://blog.7wate.com/archives/2023-nian-du-wei-xin-du-shu-bao-gao) |
 | [2023年，伯衡君的不严肃年终回顾 - Luckydesigner](https://www.luckydesigner.space/bohengkun-2023-interesting-year-end-summary/) | 1506 | [IA](http://web.archive.org/web/20231228232548/https://www.luckydesigner.space/bohengkun-2023-interesting-year-end-summary/) |
 | [我的 2023 年 - sjdhome blog ](https://www.sjdhome.com/blog/post/my-2023/) | 1652 | [IA](http://web.archive.org/web/20231228232250/https://www.sjdhome.com/blog/post/my-2023/) |
+| [“在谢幕时分惜别”·夏鸢的2023年年度总结 - 小夏鸢的波子汽水店](https://me.owo.today/2023/12/28/2023-year-end-summary/) | | [IA](https://web.archive.org/web/20231228161807/https://me.owo.today/2023/12/28/2023-year-end-summary/) |
