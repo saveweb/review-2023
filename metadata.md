@@ -40,3 +40,6 @@
 | [Conclusion-2023年度总结 - Longlin's Blog](https://www.longlin.tech/conclusion2023/) | 1726 | [IA](https://web.archive.org/web/20231229082336/https://www.longlin.tech/conclusion2023/) |
 | [2023 年终总结 - 雪糕](https://blog.lyc.sh/2023-annual-report/) | 1605 | [IA](https://web.archive.org/web/20231229163525/https://blog.lyc.sh/2023-annual-report/) |
 | [我的2023：奔波 - SKYue's Home](https://www.skyue.com/23122914.html) | 998 | [IA](https://web.archive.org/web/20231229163613/https://www.skyue.com/23122914.html) |
+| [不知道如何总结是好的2023 - 沈唁志](https://qq52o.me/2830.html) | 722 | [IA](https://web.archive.org/web/20231229163958/https://qq52o.me/2830.html) |
+| [2023 年回顾 - 竹炉山房](https://synyan.cn/t/44616/) | 1125 | [IA](https://web.archive.org/web/20231229164144/https://synyan.cn/t/44616/) |
+| [2023 年终总结 - 高策](http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2023) | 1606 | [IA](https://web.archive.org/web/20231229164353/http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2023) |
