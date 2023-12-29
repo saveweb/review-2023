@@ -32,3 +32,6 @@
 | [2023年，伯衡君的不严肃年终回顾 - Luckydesigner](https://www.luckydesigner.space/bohengkun-2023-interesting-year-end-summary/) | 1506 | [IA](http://web.archive.org/web/20231228232548/https://www.luckydesigner.space/bohengkun-2023-interesting-year-end-summary/) |
 | [我的 2023 年 - sjdhome blog ](https://www.sjdhome.com/blog/post/my-2023/) | 1652 | [IA](http://web.archive.org/web/20231228232250/https://www.sjdhome.com/blog/post/my-2023/) |
 | [“在谢幕时分惜别”·夏鸢的2023年年度总结 - 小夏鸢的波子汽水店](https://me.owo.today/2023/12/28/2023-year-end-summary/) | | [IA](https://web.archive.org/web/20231228161807/https://me.owo.today/2023/12/28/2023-year-end-summary/) |
+| [2023 年度书单 - Free Mind](http://freemind.pluskid.org/books/2023-annual-book-list) | 1300 | [IA](http://web.archive.org/web/20231229003133/https://freemind.pluskid.org/books/2023-annual-book-list/) |
+| [我的2023 - Damao](http://damao2250.com/2023/12/28/%E6%88%91%E7%9A%842023/) | 1132 | [IA](http://web.archive.org/web/20231229003320/http://www.damao2250.com/2023/12/28/%E6%88%91%E7%9A%842023/) |
+| [又过一年 立flag？ - 猫叔博客](https://blog.mcoo.cc/69/) | 1086 | [IA](http://web.archive.org/web/20231229003634/https://blog.mcoo.cc/69/) |
