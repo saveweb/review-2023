@@ -31,3 +31,6 @@
 | [2023 年度微信读书报告 - 7Wate's Blog](https://blog.7wate.com/archives/2023-nian-du-wei-xin-du-shu-bao-gao) | 1507 | [IA](http://web.archive.org/web/20231228030629/https://blog.7wate.com/archives/2023-nian-du-wei-xin-du-shu-bao-gao) |
 | [2023年，伯衡君的不严肃年终回顾 - Luckydesigner](https://www.luckydesigner.space/bohengkun-2023-interesting-year-end-summary/) | 1506 | [IA](http://web.archive.org/web/20231228232548/https://www.luckydesigner.space/bohengkun-2023-interesting-year-end-summary/) |
 | [我的 2023 年 - sjdhome blog ](https://www.sjdhome.com/blog/post/my-2023/) | 1652 | [IA](http://web.archive.org/web/20231228232250/https://www.sjdhome.com/blog/post/my-2023/) |
+| [2023 年度书单 - Free Mind](http://freemind.pluskid.org/books/2023-annual-book-list) | 1300 | [IA](http://web.archive.org/web/20231229003133/https://freemind.pluskid.org/books/2023-annual-book-list/) |
+| [我的2023 - Damao](http://damao2250.com/2023/12/28/%E6%88%91%E7%9A%842023/) | 1132 | [IA](http://web.archive.org/web/20231229003320/http://www.damao2250.com/2023/12/28/%E6%88%91%E7%9A%842023/) |
+| [又过一年 立flag？ - 猫叔博客](https://blog.mcoo.cc/69/) | 1086 | [IA](http://web.archive.org/web/20231229003634/https://blog.mcoo.cc/69/) |
