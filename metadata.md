@@ -37,3 +37,4 @@
 | [又过一年 立flag？ - 猫叔博客](https://blog.mcoo.cc/69/) | 1086 | [IA](http://web.archive.org/web/20231229003634/https://blog.mcoo.cc/69/) |
 | [2023 - 2024 - 非理勿试](https://www.ntiy.com/2049.html) | 1039 | [IA](http://web.archive.org/web/20231229010329/https://www.ntiy.com/2049.html) |
 | [SekaiMoe的2023 - SekaiMoe's World](https://sekaimoe.dpkg123.site/end-of-2023/) | 1725 | [IA](https://web.archive.org/web/20231229050747/https://sekaimoe.dpkg123.site/end-of-2023/) |
+| [Conclusion-2023年度总结 - Longlin's Blog](https://www.longlin.tech/conclusion2023/) | 1726 | [IA](https://web.archive.org/web/20231229082336/https://www.longlin.tech/conclusion2023/) |
