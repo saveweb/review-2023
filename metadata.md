@@ -38,3 +38,5 @@
 | [2023 - 2024 - 非理勿试](https://www.ntiy.com/2049.html) | 1039 | [IA](http://web.archive.org/web/20231229010329/https://www.ntiy.com/2049.html) |
 | [SekaiMoe的2023 - SekaiMoe's World](https://sekaimoe.dpkg123.site/end-of-2023/) | 1725 | [IA](https://web.archive.org/web/20231229050747/https://sekaimoe.dpkg123.site/end-of-2023/) |
 | [Conclusion-2023年度总结 - Longlin's Blog](https://www.longlin.tech/conclusion2023/) | 1726 | [IA](https://web.archive.org/web/20231229082336/https://www.longlin.tech/conclusion2023/) |
+| [2023 年终总结 - 雪糕](https://blog.lyc.sh/2023-annual-report/) | 1605 | [IA](https://web.archive.org/web/20231229163525/https://blog.lyc.sh/2023-annual-report/) |
+| [我的2023：奔波 - SKYue's Home](https://www.skyue.com/23122914.html) | 998 | [IA](https://web.archive.org/web/20231229163613/https://www.skyue.com/23122914.html) |
