@@ -50,4 +50,4 @@
 | [2023年终总结 与 2024新年展望 - YoungForest's blog](https://youngforest.github.io/2024/03/13/2023-summary-and-2024-resolutions/) | 1593 | [IA](http://web.archive.org/web/20231228025519/https://youngforest.github.io/2024/03/13/2023-summary-and-2024-resolutions/) |
 | [2023年度回顾 - 海阔天空的云](https://www.hktkdy.com/2023/12/13/2023/2023/) | 1714 | [IA](https://web.archive.org/web/20231226173527/https://www.hktkdy.com/2023/12/13/2023/2023/) |
 | [2023年终总结 - Thrive Blog](https://liuyuyang.net/index.php/archives/2195/) | 1710 | [IA](https://web.archive.org/web/20231226171705/https://liuyuyang.net/index.php/archives/2195/) |
-| [2023年终总结 - Leo的个人博客](https://xy77.live/leo2023/)
+| [2023年终总结 - Leo的个人博客](https://xy77.live/leo2023/) |  | [IA](https://web.archive.org/web/20231229152934/https://xy77.live/leo2023/) |
