@@ -3,7 +3,7 @@ name: Close PR on README changes
 on:
   pull_request:
     paths:
-      - '**.md'
+      - 'README.md'
 
 jobs:
   close-pr:
