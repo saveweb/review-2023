@@ -36,3 +36,4 @@
 | [我的2023 - Damao](http://damao2250.com/2023/12/28/%E6%88%91%E7%9A%842023/) | 1132 | [IA](http://web.archive.org/web/20231229003320/http://www.damao2250.com/2023/12/28/%E6%88%91%E7%9A%842023/) |
 | [又过一年 立flag？ - 猫叔博客](https://blog.mcoo.cc/69/) | 1086 | [IA](http://web.archive.org/web/20231229003634/https://blog.mcoo.cc/69/) |
 | [2023 - 2024 - 非理勿试](https://www.ntiy.com/2049.html) | 1039 | [IA](http://web.archive.org/web/20231229010329/https://www.ntiy.com/2049.html) |
+| [2023年终总结 - Leo的个人博客](https://xy77.live/leo2023/) |  | [IA](https://web.archive.org/web/20231229152934/https://xy77.live/leo2023/) |
