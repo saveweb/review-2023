@@ -44,3 +44,11 @@
 | [不知道如何总结是好的2023 - 沈唁志](https://qq52o.me/2830.html) | 722 | [IA](https://web.archive.org/web/20231229163958/https://qq52o.me/2830.html) |
 | [2023 年回顾 - 竹炉山房](https://synyan.cn/t/44616/) | 1125 | [IA](https://web.archive.org/web/20231229164144/https://synyan.cn/t/44616/) |
 | [2023 年终总结 - 高策](http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2023) | 1606 | [IA](https://web.archive.org/web/20231229164353/http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2023) |
+| [📖2023 阅读记录 - 61's life](http://61.life/2023/1230) | 314 | [IA](https://web.archive.org/web/20231230150624/https://61.life/2023/1230) |
+| [我的二零二三 - JiaYin's Life](https://imjiayin.com/5208) | 861 | [IA](https://web.archive.org/web/20231230152058/https://imjiayin.com/5208) |
+| [2023 年终总结 - 老高的博客](https://blog.mute-g.com/post/work/summary-2023.html) | 249 | [IA](https://web.archive.org/web/20231230152212/https://blog.mute-g.com/post/work/summary-2023.html) |
+| [2023_年终总结_关键词 - NotionNext BLOG](https://www.xmylog.com/article/articles_review_2023) | 1683 | [IA](https://web.archive.org/web/20231230152405/https://www.xmylog.com/article/articles_review_2023) |
+| [2023 年度游戏总结 - Free Mind](http://freemind.pluskid.org/misc/2023-games) | 1300 | [IA](https://web.archive.org/web/20231230152609/https://freemind.pluskid.org/misc/2023-games/) |
+| [2023 年终总结 - Ursa Major](http://elfile4138.moe/2023/12/2023-Recap/) | 1625 | [IA](https://web.archive.org/web/20231230152712/https://elfile4138.moe/2023/12/2023-Recap/) |
+| [2023,在朋友圈的一年 - 你好我是森林](https://demochen.com/posts/20231229/) | 1631 | [IA](https://web.archive.org/web/20231230152755/https://demochen.com/posts/20231229/) |
+| [2023年投资总结：屎上雕花 - 王掌柜](https://geek.wasai.org/economist-2/) | 1220 | [IA](https://web.archive.org/web/20231230153008/https://geek.wasai.org/economist-2/) |
