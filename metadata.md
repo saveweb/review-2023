@@ -36,6 +36,7 @@
 | [我的2023 - Damao](http://damao2250.com/2023/12/28/%E6%88%91%E7%9A%842023/) | 1132 | [IA](http://web.archive.org/web/20231229003320/http://www.damao2250.com/2023/12/28/%E6%88%91%E7%9A%842023/) |
 | [又过一年 立flag？ - 猫叔博客](https://blog.mcoo.cc/69/) | 1086 | [IA](http://web.archive.org/web/20231229003634/https://blog.mcoo.cc/69/) |
 | [2023 - 2024 - 非理勿试](https://www.ntiy.com/2049.html) | 1039 | [IA](http://web.archive.org/web/20231229010329/https://www.ntiy.com/2049.html) |
+| [2023年终总结 - Leo的个人博客](https://xy77.live/leo2023/) |  | [IA](https://web.archive.org/web/20231229152934/https://xy77.live/leo2023/) |
 | [SekaiMoe的2023 - SekaiMoe's World](https://sekaimoe.dpkg123.site/end-of-2023/) | 1725 | [IA](https://web.archive.org/web/20231229050747/https://sekaimoe.dpkg123.site/end-of-2023/) |
 | [Conclusion-2023年度总结 - Longlin's Blog](https://www.longlin.tech/conclusion2023/) | 1726 | [IA](https://web.archive.org/web/20231229082336/https://www.longlin.tech/conclusion2023/) |
 | [2023 年终总结 - 雪糕](https://blog.lyc.sh/2023-annual-report/) | 1605 | [IA](https://web.archive.org/web/20231229163525/https://blog.lyc.sh/2023-annual-report/) |
