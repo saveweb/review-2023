@@ -1,0 +1,15 @@
+name: Close PR on README changes
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+
+jobs:
+  close-pr:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Close PR if README.md changed
+      uses: peter-evans/close-pull@v3.0.1
+      with:
+        comment: do not edit README.md
