@@ -31,9 +31,16 @@
 | [2023 年度微信读书报告 - 7Wate's Blog](https://blog.7wate.com/archives/2023-nian-du-wei-xin-du-shu-bao-gao) | 1507 | [IA](http://web.archive.org/web/20231228030629/https://blog.7wate.com/archives/2023-nian-du-wei-xin-du-shu-bao-gao) |
 | [2023年，伯衡君的不严肃年终回顾 - Luckydesigner](https://www.luckydesigner.space/bohengkun-2023-interesting-year-end-summary/) | 1506 | [IA](http://web.archive.org/web/20231228232548/https://www.luckydesigner.space/bohengkun-2023-interesting-year-end-summary/) |
 | [我的 2023 年 - sjdhome blog ](https://www.sjdhome.com/blog/post/my-2023/) | 1652 | [IA](http://web.archive.org/web/20231228232250/https://www.sjdhome.com/blog/post/my-2023/) |
-| [“在谢幕时分惜别”·夏鸢的2023年年度总结 - 小夏鸢的波子汽水店](https://me.owo.today/2023/12/28/2023-year-end-summary/) | | [IA](https://web.archive.org/web/20231228161807/https://me.owo.today/2023/12/28/2023-year-end-summary/) |
+| [“在谢幕时分惜别”·夏鸢的2023年年度总结 - 小夏鸢的波子汽水店](https://me.owo.today/2023/12/28/2023-year-end-summary/) | 1724 | [IA](https://web.archive.org/web/20231228161807/https://me.owo.today/2023/12/28/2023-year-end-summary/) |
 | [2023 年度书单 - Free Mind](http://freemind.pluskid.org/books/2023-annual-book-list) | 1300 | [IA](http://web.archive.org/web/20231229003133/https://freemind.pluskid.org/books/2023-annual-book-list/) |
 | [我的2023 - Damao](http://damao2250.com/2023/12/28/%E6%88%91%E7%9A%842023/) | 1132 | [IA](http://web.archive.org/web/20231229003320/http://www.damao2250.com/2023/12/28/%E6%88%91%E7%9A%842023/) |
 | [又过一年 立flag？ - 猫叔博客](https://blog.mcoo.cc/69/) | 1086 | [IA](http://web.archive.org/web/20231229003634/https://blog.mcoo.cc/69/) |
 | [2023 - 2024 - 非理勿试](https://www.ntiy.com/2049.html) | 1039 | [IA](http://web.archive.org/web/20231229010329/https://www.ntiy.com/2049.html) |
 | [2023年终总结 - Leo的个人博客](https://xy77.live/leo2023/) |  | [IA](https://web.archive.org/web/20231229152934/https://xy77.live/leo2023/) |
+| [SekaiMoe的2023 - SekaiMoe's World](https://sekaimoe.dpkg123.site/end-of-2023/) | 1725 | [IA](https://web.archive.org/web/20231229050747/https://sekaimoe.dpkg123.site/end-of-2023/) |
+| [Conclusion-2023年度总结 - Longlin's Blog](https://www.longlin.tech/conclusion2023/) | 1726 | [IA](https://web.archive.org/web/20231229082336/https://www.longlin.tech/conclusion2023/) |
+| [2023 年终总结 - 雪糕](https://blog.lyc.sh/2023-annual-report/) | 1605 | [IA](https://web.archive.org/web/20231229163525/https://blog.lyc.sh/2023-annual-report/) |
+| [我的2023：奔波 - SKYue's Home](https://www.skyue.com/23122914.html) | 998 | [IA](https://web.archive.org/web/20231229163613/https://www.skyue.com/23122914.html) |
+| [不知道如何总结是好的2023 - 沈唁志](https://qq52o.me/2830.html) | 722 | [IA](https://web.archive.org/web/20231229163958/https://qq52o.me/2830.html) |
+| [2023 年回顾 - 竹炉山房](https://synyan.cn/t/44616/) | 1125 | [IA](https://web.archive.org/web/20231229164144/https://synyan.cn/t/44616/) |
+| [2023 年终总结 - 高策](http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2023) | 1606 | [IA](https://web.archive.org/web/20231229164353/http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2023) |
