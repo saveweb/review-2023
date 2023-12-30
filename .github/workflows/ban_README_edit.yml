@@ -3,7 +3,8 @@ name: Close PR on README changes
 on:
   pull_request:
     paths:
-      - 'README.md'
+      - '**.md'
+
 jobs:
   close-pr:
     runs-on: ubuntu-latest
