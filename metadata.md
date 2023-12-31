@@ -52,3 +52,9 @@
 | [2023 年终总结 - Ursa Major](http://elfile4138.moe/2023/12/2023-Recap/) | 1625 | [IA](https://web.archive.org/web/20231230152712/https://elfile4138.moe/2023/12/2023-Recap/) |
 | [2023,在朋友圈的一年 - 你好我是森林](https://demochen.com/posts/20231229/) | 1631 | [IA](https://web.archive.org/web/20231230152755/https://demochen.com/posts/20231229/) |
 | [2023年投资总结：屎上雕花 - 王掌柜](https://geek.wasai.org/economist-2/) | 1220 | [IA](https://web.archive.org/web/20231230153008/https://geek.wasai.org/economist-2/) |
+| [2023年度总结 - Lenger的后花园](http://spookerv5.github.io/2023/12/31/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | 1617 | [IA](https://web.archive.org/web/20231231000926/https://spookerv5.github.io/2023/12/31/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
+| [2023年终总结 - @Lenciel](https://lenciel.com/2023/12/the-last-day-in-2023/) | 316 | [IA](https://web.archive.org/web/20231231001056/https://lenciel.com/2023/12/the-last-day-in-2023/) |
+| [我的 2023 - 程序员的喵](http://catcoding.me/p/2023-summary/) | 1493 | [IA](https://web.archive.org/web/20231231001133/https://catcoding.me/p/2023-summary/) |
+| [初窥门径的2023 - 醉乐轩](https://behappy.cc/life/2023-final/) | 1111 | [IA](https://web.archive.org/web/20231231001320/https://behappy.cc/life/2023-final/) |
+| [年终总结：2023年的一些回顾和2024年的一些小规划 - 程沛权](https://chengpeiquan.com/article/2023-year-end-summary.html) | 686 | [IA](https://web.archive.org/web/20231231001502/https://chengpeiquan.com/article/2023-year-end-summary.html) |
+| [2023年的已读书单 - 雅余 · 茶余饭后，闲情雅致](https://yayu.net/3927.html) | 1393 | [IA](https://web.archive.org/web/20231231001648/https://yayu.net/3927.html) |
