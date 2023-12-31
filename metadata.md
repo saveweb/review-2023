@@ -103,3 +103,6 @@
 | [Words of 2023 - 孤岛客 - 几支无用笔，半打有心人。](https://www.huangjiwei.com/blog/?p=12051) | 473 | [IA](https://hisherry.com/%E5%8A%A0%E5%9B%BD%E7%94%9F%E6%B4%BB/4557/) |
 | [我的2023 - 燕渡寒潭](https://hisherry.com/%E5%8A%A0%E5%9B%BD%E7%94%9F%E6%B4%BB/4557/) | 863 | [IA](https://web.archive.org/web/20231231185642/https://hisherry.com/%E5%8A%A0%E5%9B%BD%E7%94%9F%E6%B4%BB/4557/) |
 | [[I Am I 年度简报] - 2023 - Hi, I am I](https://5ime.cn/hello-2024.html) | 715 | [IA](https://web.archive.org/web/20231231185737/https://5ime.cn/hello-2024.html) |
+| [2024 来啦！ - MBRjun-Blog](https://www.mbrjun.cn/archives/495/) |  | [IA](https://web.archive.org/web/20231231190257/https://www.mbrjun.cn/archives/495/) |
+| [2023 年度总结 - UMR's Blog](https://www.umr.wiki/?p=85) |  | [IA](https://web.archive.org/web/20231231190509/https://www.umr.wiki/?p=85) |
+| [2023 年度站务总结 - SheepChef Blog](https://shef.cc/2024/01/01/2023-%e5%b9%b4%e5%ba%a6%e7%ab%99%e5%8a%a1%e6%80%bb%e7%bb%93/) |  | [IA](https://web.archive.org/web/20231231190739/https://shef.cc/2024/01/01/2023-%E5%B9%B4%E5%BA%A6%E7%AB%99%E5%8A%A1%E6%80%BB%E7%BB%93/) |
