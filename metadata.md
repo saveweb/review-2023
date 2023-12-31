@@ -59,3 +59,4 @@
 | [年终总结：2023年的一些回顾和2024年的一些小规划 - 程沛权](https://chengpeiquan.com/article/2023-year-end-summary.html) | 686 | [IA](https://web.archive.org/web/20231231001502/https://chengpeiquan.com/article/2023-year-end-summary.html) |
 | [2023年的已读书单 - 雅余 · 茶余饭后，闲情雅致](https://yayu.net/3927.html) | 1393 | [IA](https://web.archive.org/web/20231231001648/https://yayu.net/3927.html) |
 | [2023 年度总结 - 怠惰のコエ - imba久期 BLOG](https://imba97.cn/archives/774/) |  |  |
+| [🏷️ 2023 · 年度总结 - Licodeao's Blog](https://www.licodeao.top/blogs/articles/2023-Annual-Summary.html) | | [AT](https://archive.md/ZtzWi) |
