@@ -13,24 +13,15 @@ markdown = """# review-2023
 
 """
 
-with open('metadata.md', 'r') as f:
-  lines = f.read().splitlines()
+raw_lines = open('metadata.md', 'r').read().splitlines()
 
-header = lines[0:2]
+header = raw_lines[0:2]
 
-lines = set(lines[2:])
+lines = set(raw_lines[2:])
 lines.discard('')
-lines = list(lines)
-lines.sort()
-
-# with open('metadata.md', 'w') as f:
-#   for line in header:
-#     f.write(line+'\n')    
-#   for line in lines:
-#     f.write(line+'\n')
 
 with open('README.md', 'w') as f:
-  f.write(markdown+'计数: '+str(len(lines))+' 篇。\n\n')
+  f.write(markdown+'计数: '+str(len(lines))+' 篇。下表每次 CI 乱序输出。\n\n')
   f.write('\n'.join(header))
   f.write('\n')
-  f.write('\n'.join(set(lines)))
+  f.write('\n'.join(lines))
