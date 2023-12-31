@@ -70,7 +70,7 @@
 | [折腾2023 - 安志合的学习博客](https://chegva.com/5890.html) | 414 | [IA](https://web.archive.org/web/20231231182059/https://chegva.com/5890.html) |
 | [2023 年末回顧 - 一座島 - 一座島，一個人，一個世界。 ](https://island.shaform.com/zh/2023/12/31/2023-year-in-review/) | 461 | [IA](https://web.archive.org/web/20231231182220/https://island.shaform.com/zh/2023/12/31/2023-year-in-review/) |
 | [2023 - bang's blog](http://blog.cnbang.net/living/3752/) | 128 | [IA](https://web.archive.org/web/20231231182302/http://blog.cnbang.net/living/3752/) |
-| [写给自己 \| 2023 年终总结 - Fika](https://fika.ink/blog/1117755772.html) | 1607 | [IA](https://web.archive.org/web/20231231182342/https://fika.ink/blog/1117755772.html) |
+| [写给自己 - 2023 年终总结 - Fika](https://fika.ink/blog/1117755772.html) | 1607 | [IA](https://web.archive.org/web/20231231182342/https://fika.ink/blog/1117755772.html) |
 | [I wrote the \0 of 2023 - ObservatoryX 天文觀測站](https://observatoryx.github.io/2023/12/31/Epilogue2023/) | 1114 | [IA](https://web.archive.org/web/20231231182427/https://observatoryx.github.io/2023/12/31/Epilogue2023/) |
 | [2023 年末总结 - Anillc's Blog](https://anillc.cn/2023/12/22/happy-new-year-3/) | 1573 | [IA](https://web.archive.org/web/20231231182546/https://anillc.cn/2023/12/22/happy-new-year-3/) |
 | [抓住2023的尾巴 - 灰常记忆](https://bestcherish.com/zhua-zhu-2023-de-wei-ba.html) | 1105 | [IA](https://web.archive.org/web/20231231182721/https://bestcherish.com/zhua-zhu-2023-de-wei-ba.html) |
@@ -81,9 +81,9 @@
 | [2023年本人年终报告 - 山葵酱部落格](https://wasabi.fun/8601.html) | 1265 | [IA](https://web.archive.org/web/20231231183151/https://wasabi.fun/8601.html) |
 | [2023年终总结 - Hans362 's Blog](https://blog.hans362.cn/post/2023-annual-report/) | 1719 | [IA](https://web.archive.org/web/20231231183229/https://blog.hans362.cn/post/2023-annual-report/) |
 | [2023 年终总结 - 土豆不好吃](https://dmesg.app/2023-end.html) | 1431 | [IA](https://web.archive.org/web/20231231183312/https://dmesg.app/2023-end.html) |
-| [再见2023 \| 捡起六便士也不忘心中的月亮 - Ek1ng's Blog](https://www.ek1ng.com/Goodbye2023.html) | 1143 | [IA](https://web.archive.org/web/20231231183545/https://www.ek1ng.com/Goodbye2023.html) |
+| [再见2023 - 捡起六便士也不忘心中的月亮 - Ek1ng's Blog](https://www.ek1ng.com/Goodbye2023.html) | 1143 | [IA](https://web.archive.org/web/20231231183545/https://www.ek1ng.com/Goodbye2023.html) |
 | [【2023书影记】我独自生活在稠密的思想中 - 尺宅杂记](http://www.qncd.com/?p=8849) | 1510 | [IA](https://web.archive.org/web/20231231183641/http://www.qncd.com/?p=8849) |
-| [年终总结 \| 混沌的 2023 - Zwh's Blog](https://zwh.moe/posts/default/review-2023) | 918 | [IA](https://web.archive.org/web/20231231183730/https://zwh.moe/posts/default/review-2023) |
+| [年终总结 - 混沌的 2023 - Zwh's Blog](https://zwh.moe/posts/default/review-2023) | 918 | [IA](https://web.archive.org/web/20231231183730/https://zwh.moe/posts/default/review-2023) |
 | [2023 年终总结 - UsubeniFantasy](https://ssshooter.com/2023-summary) | 158 | [IA](https://web.archive.org/web/20231231184026/https://ssshooter.com/2023-summary/) |
 | [我的 2023 读书总结 - Kyle's Blog](https://kyle.ai/blog/7785.html) | 1693 | [IA](https://web.archive.org/web/20231231184100/https://kyle.ai/blog/7785.html) |
 | [2023 年度记录 - YeungYeah 的乱写地](https://scottyeung.top/2023/record-of-2023/) | 265 | [IA](https://web.archive.org/web/20231231184211/https://scottyeung.top/2023/record-of-2023/) |
