@@ -106,3 +106,11 @@
 | [2024 来啦！ - MBRjun-Blog](https://www.mbrjun.cn/archives/495/) |  | [IA](https://web.archive.org/web/20231231190257/https://www.mbrjun.cn/archives/495/) |
 | [2023 年度总结 - UMR's Blog](https://www.umr.wiki/?p=85) |  | [IA](https://web.archive.org/web/20231231190509/https://www.umr.wiki/?p=85) |
 | [2023 年度站务总结 - SheepChef Blog](https://shef.cc/2024/01/01/2023-%e5%b9%b4%e5%ba%a6%e7%ab%99%e5%8a%a1%e6%80%bb%e7%bb%93/) |  | [IA](https://web.archive.org/web/20231231190739/https://shef.cc/2024/01/01/2023-%E5%B9%B4%E5%BA%A6%E7%AB%99%E5%8A%A1%E6%80%BB%E7%BB%93/) |
+| [aisuneko's story for 2023 - aisuneko/blog](https://aisuneko.moe/posts/2023-story/) |  | [IA](https://web.archive.org/web/20240101020102/https://aisuneko.moe/posts/2023-story/) |
+| [2023年年终总结: 多和优秀的人在一起玩 - 小赖子的英国生活和资讯](https://justyy.com/archives/64006) | 793 | [IA](https://web.archive.org/web/20240101020146/https://justyy.com/archives/64006) |
+| [[青空之蓝-2023] -色彩](https://blog.ixk.me/post/my-2023-year-end-summary) | 228 | [IA](https://web.archive.org/web/20240101020240/https://blog.ixk.me/post/my-2023-year-end-summary) |
+| [重返回顧之2023 - 掘火档案](https://www.digforfire.net/?p=19714) | 1584 | [IA](https://web.archive.org/web/20240101020335/https://www.digforfire.net/?p=19714) |
+| [2023 年度总结 - Lufs's Blog](https://blog.isteed.cc/post/2023-summary/) | 1257 | [IA](https://web.archive.org/web/20240101020408/https://blog.isteed.cc/post/2023-summary/) |
+| [我和我的 2023 - Super Blog](https://superpung.com/rev-2023/) | 1150 | [IA](https://web.archive.org/web/20240101020455/https://superpung.com/rev-2023/) |
+| [越行线 - 大破进击](https://jesor.me/2023/over-taking-line/) | 1036 | [IA](https://web.archive.org/web/20240101021417/https://jesor.me/2023/over-taking-line/) |
+| [我的 2023 - Panda Home](https://old-panda.com/2023/12/31/my-2023/) | 214 | [IA](https://web.archive.org/web/20240101021607/https://old-panda.com/2023/12/31/my-2023/) |
