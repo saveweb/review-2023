@@ -114,3 +114,4 @@
 | [我和我的 2023 - Super Blog](https://superpung.com/rev-2023/) | 1150 | [IA](https://web.archive.org/web/20240101020455/https://superpung.com/rev-2023/) |
 | [越行线 - 大破进击](https://jesor.me/2023/over-taking-line/) | 1036 | [IA](https://web.archive.org/web/20240101021417/https://jesor.me/2023/over-taking-line/) |
 | [我的 2023 - Panda Home](https://old-panda.com/2023/12/31/my-2023/) | 214 | [IA](https://web.archive.org/web/20240101021607/https://old-panda.com/2023/12/31/my-2023/) |
+| [愿此去前路皆坦途 —— 我的 2023 年度总结 - 宝硕博客](https://blog.baoshuo.ren/post/goodbye-2023/) | 1029 | [IA](https://web.archive.org/web/20240101052007/https://blog.baoshuo.ren/post/goodbye-2023/) |
