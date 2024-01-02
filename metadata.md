@@ -134,7 +134,7 @@
 | [2023读书总结 - Yuko's Blog](https://blog.amamiyayuuko.com/p/2023-reading-annual-summary/) | 436 | [IA](http://web.archive.org/web/20240102083923/https://blog.amamiyayuuko.com/p/2023-reading-annual-summary/) |
 | [2023年过去了我很怀念他! - 蓝卡](https://www.lanka.cn/2024_4713.html) | 216 | [IA](http://web.archive.org/web/20240102084228/https://www.lanka.cn/2024_4713.html) |
 | [年终总结 - Mayx的博客](https://mabbs.github.io/2024/01/01/summary.html) | 326 | [IA](http://web.archive.org/web/20240102084457/https://mabbs.github.io/2024/01/01/summary.html) |
-| [再见2023,你好2024 - 谢乾坤|青南](https://www.kingname.info/2024/01/01/2023-2024/) | 167 | [IA](http://web.archive.org/web/20240102084907/https://www.kingname.info/2024/01/01/2023-2024/) |
+| [再见2023,你好2024 - 谢乾坤 青南](https://www.kingname.info/2024/01/01/2023-2024/) | 167 | [IA](http://web.archive.org/web/20240102084907/https://www.kingname.info/2024/01/01/2023-2024/) |
 | [2023年终总结  - Situ Note](https://situ2001.com/blog/2023-summary/) | 1716 | [IA](http://web.archive.org/web/20240102085050/https://www.situ2001.com/blog/2023-summary/) |
 | [2023年终总结  - Frank's Weblog](https://nyan.im/p/2023-year-in-review) | 735 | [IA](http://web.archive.org/web/20240102085307/https://nyan.im/p/2023-year-in-review) |
 | [2023 Review - Old Memories and New Wishes - Xuanwo's Blog](https://xuanwo.io/2023/05-2023-review/) | 1101 | [IA](http://web.archive.org/web/20240102085444/https://xuanwo.io/2023/05-2023-review/) |
