@@ -115,3 +115,27 @@
 | [越行线 - 大破进击](https://jesor.me/2023/over-taking-line/) | 1036 | [IA](https://web.archive.org/web/20240101021417/https://jesor.me/2023/over-taking-line/) |
 | [我的 2023 - Panda Home](https://old-panda.com/2023/12/31/my-2023/) | 214 | [IA](https://web.archive.org/web/20240101021607/https://old-panda.com/2023/12/31/my-2023/) |
 | [愿此去前路皆坦途 —— 我的 2023 年度总结 - 宝硕博客](https://blog.baoshuo.ren/post/goodbye-2023/) | 1029 | [IA](https://web.archive.org/web/20240101052007/https://blog.baoshuo.ren/post/goodbye-2023/) |
+| [2023年终总结 - 焦虑的一年 - Deepzz's Blog](https://deepzz.com/post/2023-year-end.html) | 188 | [IA](http://web.archive.org/web/20240102074653/https://deepzz.com/post/2023-year-end.html) |
+| [2024 年元旦祝福 - 杜老师说](https://dusays.com/662/) | 1397 | [IA](http://web.archive.org/web/20240102075021/https://dusays.com/662/) |
+| [年终回顾 - 拾风](https://www.leolin86.com/?p=2860) | 837 | [IA](http://web.archive.org/web/20240102075301/https://www.leolin86.com/?p=2860) |
+| [2023总结 - slince Blog](https://slince-zero.github.io/posts/2023/12/31/2023%E6%80%BB%E7%BB%93.html) | 1612 | [IA](http://web.archive.org/web/20240102075504/https://slince-zero.github.io/posts/2023/12/31/2023%E6%80%BB%E7%BB%93.html) |
+| [2023 年年终总结投资篇 - forecho 的独立博客](https://blog.forecho.com/2023-review-investment.html) | 92 | [IA](http://web.archive.org/web/20240102075853/https://blog.forecho.com/2023-review-investment.html) |
+| [2023 父亲写的散文诗 - Free Mind](http://freemind.pluskid.org/misc/2023-summary) | 1300 | [IA](https://freemind.pluskid.org/misc/2023-summary/) |
+| [2023 总结：新的冒险 - Hi! 上天不?](https://a-wing.top/self/2023/12/31/2023.html) | 1526 | [IA](http://web.archive.org/web/20240102081024/https://a-wing.top/self/2023/12/31/2023) |
+| [2023 年度十大照片 - 超能小紫 – mokeyjay](https://mok.moe/p/2023-photos) | 779 | [IA](http://web.archive.org/web/20240102081307/https://mok.moe/p/2023-photos) |
+| [2023年终总结 - Yunfeng's Simple Blog](http://vra.github.io/2023/12/31/summary-2023/) | 1465 | [IA](http://web.archive.org/web/20240102081629/https://vra.github.io/2023/12/31/summary-2023/) |
+| [2024-01-01 - informal](http://informal.top/blog/2024/01/01/first-day-new-year.html) | 1452 | [IA](http://web.archive.org/web/20240102081901/http://informal.top/blog/2024/01/01/first-day-new-year.html) |
+| [2023（下篇) - Shadow Walker 松烟阁](https://www.edony.ink/2023_2/) | 1489 | [IA](http://web.archive.org/web/20240102082129/https://www.edony.ink/2023_2/) |
+| [谜底 2023 - 61's life](http://61.life/2024/0101) | 314 | [IA](http://web.archive.org/web/20240102082320/https://61.life/2024/0101) |
+| [2023(完) - 重归混沌的BLOG](https://blog.gotocoding.com/archives/1856) 408 | [IA](http://web.archive.org/web/20240102082515/https://blog.gotocoding.com/archives/1856) |
+| [2023年总结:保持心情愉悦&积极向上 - luozhiyun's Blog 我的技术分享](https://www.luozhiyun.com/archives/828) | 432 | [IA](http://web.archive.org/web/20240102082805/https://www.luozhiyun.com/archives/828) |
+| [2023 Annual Review - Luyu Huang's Tech Blog](https://luyuhuang.tech/2024/01/01/2023-annual-review.html) | 403 | [IA](http://web.archive.org/web/20240102083224/https://luyuhuang.tech/2024/01/01/2023-annual-review.html) |
+| [2023年终总结 - 晓白博客](https://blog.chs.pub/p/23-13-endof2023/) | 1369 | [IA](http://web.archive.org/web/20240102083607/https://blog.chs.pub/p/23-13-endof2023/) |
+| [2023读书总结 - Yuko's Blog](https://blog.amamiyayuuko.com/p/2023-reading-annual-summary/) | 436 | [IA](http://web.archive.org/web/20240102083923/https://blog.amamiyayuuko.com/p/2023-reading-annual-summary/) |
+| [2023年过去了我很怀念他! - 蓝卡](https://www.lanka.cn/2024_4713.html) | 216 | [IA](http://web.archive.org/web/20240102084228/https://www.lanka.cn/2024_4713.html) |
+| [年终总结 - Mayx的博客](https://mabbs.github.io/2024/01/01/summary.html) | 326 | [IA](http://web.archive.org/web/20240102084457/https://mabbs.github.io/2024/01/01/summary.html) |
+| [再见2023,你好2024 - 谢乾坤|青南](https://www.kingname.info/2024/01/01/2023-2024/) | 167 | [IA](http://web.archive.org/web/20240102084907/https://www.kingname.info/2024/01/01/2023-2024/) |
+| [2023年终总结  - Situ Note](https://situ2001.com/blog/2023-summary/) | 1716 | [IA](http://web.archive.org/web/20240102085050/https://www.situ2001.com/blog/2023-summary/) |
+| [2023年终总结  - Frank's Weblog](https://nyan.im/p/2023-year-in-review) | 735 | [IA](http://web.archive.org/web/20240102085307/https://nyan.im/p/2023-year-in-review) |
+| [2023 Review - Old Memories and New Wishes - Xuanwo's Blog](https://xuanwo.io/2023/05-2023-review/) | 1101 | [IA](http://web.archive.org/web/20240102085444/https://xuanwo.io/2023/05-2023-review/) |
+| [写在2023最后一天 - 狡猫三窝](https://slykiten.com/life-note/%E5%86%99%E5%9C%A82023%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9/) | 854 | [IA](http://web.archive.org/web/20240102090122/https://slykiten.com/life-note/%E5%86%99%E5%9C%A82023%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9/) |
