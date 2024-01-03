@@ -127,7 +127,7 @@
 | [2024-01-01 - informal](http://informal.top/blog/2024/01/01/first-day-new-year.html) | 1452 | [IA](http://web.archive.org/web/20240102081901/http://informal.top/blog/2024/01/01/first-day-new-year.html) |
 | [2023（下篇) - Shadow Walker 松烟阁](https://www.edony.ink/2023_2/) | 1489 | [IA](http://web.archive.org/web/20240102082129/https://www.edony.ink/2023_2/) |
 | [谜底 2023 - 61's life](http://61.life/2024/0101) | 314 | [IA](http://web.archive.org/web/20240102082320/https://61.life/2024/0101) |
-| [2023(完) - 重归混沌的BLOG](https://blog.gotocoding.com/archives/1856) 408 | [IA](http://web.archive.org/web/20240102082515/https://blog.gotocoding.com/archives/1856) |
+| [2023(完) - 重归混沌的BLOG](https://blog.gotocoding.com/archives/1856) | 408 | [IA](http://web.archive.org/web/20240102082515/https://blog.gotocoding.com/archives/1856) |
 | [2023年总结:保持心情愉悦&积极向上 - luozhiyun's Blog 我的技术分享](https://www.luozhiyun.com/archives/828) | 432 | [IA](http://web.archive.org/web/20240102082805/https://www.luozhiyun.com/archives/828) |
 | [2023 Annual Review - Luyu Huang's Tech Blog](https://luyuhuang.tech/2024/01/01/2023-annual-review.html) | 403 | [IA](http://web.archive.org/web/20240102083224/https://luyuhuang.tech/2024/01/01/2023-annual-review.html) |
 | [2023年终总结 - 晓白博客](https://blog.chs.pub/p/23-13-endof2023/) | 1369 | [IA](http://web.archive.org/web/20240102083607/https://blog.chs.pub/p/23-13-endof2023/) |
