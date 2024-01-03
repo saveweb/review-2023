@@ -139,3 +139,4 @@
 | [2023年终总结  - Frank's Weblog](https://nyan.im/p/2023-year-in-review) | 735 | [IA](http://web.archive.org/web/20240102085307/https://nyan.im/p/2023-year-in-review) |
 | [2023 Review - Old Memories and New Wishes - Xuanwo's Blog](https://xuanwo.io/2023/05-2023-review/) | 1101 | [IA](http://web.archive.org/web/20240102085444/https://xuanwo.io/2023/05-2023-review/) |
 | [写在2023最后一天 - 狡猫三窝](https://slykiten.com/life-note/%E5%86%99%E5%9C%A82023%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9/) | 854 | [IA](http://web.archive.org/web/20240102090122/https://slykiten.com/life-note/%E5%86%99%E5%9C%A82023%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9/) |
+| [我的 2023 年度总结 - 阿猫的博客](https://ameow.xyz/archives/2023-wrapup) |  | [IA](http://web.archive.org/web/20240103024709/https://ameow.xyz/archives/2023-wrapup) |
