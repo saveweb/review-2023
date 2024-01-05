@@ -142,3 +142,17 @@
 | [我的 2023 年度总结 - 阿猫的博客](https://ameow.xyz/archives/2023-wrapup) |  | [IA](http://web.archive.org/web/20240103024709/https://ameow.xyz/archives/2023-wrapup) |
 | [IaSoC 公开档案, E-P18-CHRIS-1-AR-2023 - Christine 自留地](https://blog.cellenvia.cc/2023/11/04/e-p18-chris-1-ar-2023/) |  | [IA](https://web.archive.org/web/20240104135435/https://blog.cellenvia.cc/2023/11/04/e-p18-chris-1-ar-2023/) |
 | [2023年终总结 - 流动](https://liudon.com/posts/review-2023/) |  | [IA](http://web.archive.org/web/20240105022034/https://liudon.com/posts/review-2023/) |
+| [2023 年总结 - 卡瓦邦噶！](https://www.kawabangga.com/posts/5616) | 991 | [IA](https://web.archive.org/web/20240105110101/https://www.kawabangga.com/posts/5616) |
+| [2023 年个人总结 - 唐巧的博客](https://blog.devtang.com/2024/01/01/2023-summary/) | 115 | [IA](https://web.archive.org/web/20240105110253/https://blog.devtang.com/2024/01/01/2023-summary/) |
+| [玩具箱 - 2023年我（还）在使用哪些应用？ - 小球飞鱼](https://mantyke.icu/posts/2024/toybox5/) | 1168 | [IA](https://web.archive.org/web/20240105110347/https://mantyke.icu/posts/2024/toybox5/) |
+| [2023年跑步总结 -  Domon](https://www.domon.cn/2023nian-pao-bu-zong-jie/) | 1178 | [IA](https://web.archive.org/web/20240105110424/https://www.domon.cn/2023nian-pao-bu-zong-jie/) |
+| [2023 年终总结——穷则思变 - Muniao's blog](https://www.qtmuniao.com/2024/01/04/2023-summary/) | 7 | [IA](https://web.archive.org/web/20240105110507/https://www.qtmuniao.com/2024/01/04/2023-summary/) |
+| [2023年终总结 - 编码记录](https://liudon.com/posts/review-2023/) | 1626 | [IA](https://web.archive.org/web/20240105110541/https://liudon.com/posts/review-2023/) |
+| [创造我所热爱的生活 – Justin’s 2023 - 枫言枫语](https://justinyan.me/post/5896) | 1081 | [IA](https://web.archive.org/web/20240105110821/https://justinyan.me/post/5896) |
+| [2023年终总结 - L1nSn0w's Blog](https://blog.linsnow.cn/p/2023-end/) | 1572 | [IA](https://web.archive.org/web/20240105110921/https://blog.linsnow.cn/p/2023-end/) |
+| [再见, 2023 - Nemo](https://nemo.cool/1042.html) | 1688 |  |
+| [2023已远去，2024年新开始 - 挨踢路](https://itlu.net/articles/2777.html) | 1543 | [IA](https://web.archive.org/web/20240105111402/https://itlu.net/articles/2777.html) |
+| [二〇二三年终总结，行则有效，该放弃时不犹豫 - 阿锋的小宇宙](https://feng.pub/0120246148.html) | 1401 | [IA](https://web.archive.org/web/20240105111555/https://feng.pub/0120246148.html) |
+| [2023年小结 - 迷你日志](https://minirizhi.com/483.html) | 851 | [IA](https://web.archive.org/web/20240105111654/https://minirizhi.com/483.html) |
+| [2023年终总结 - 焦虑的一年 - Deepzz's Blog](https://deepzz.com/post/2023-year-end.html) | 188 | [IA](https://web.archive.org/web/20240105123601/https://deepzz.com/post/2023-year-end.html) |
+| [佳 2023 - 素生](http://z.arlmy.me/posts/YearlyBest/YearlyBest_2023/) | 272 | [IA](https://web.archive.org/web/20240105123652/https://z.arlmy.me/posts/YearlyBest/YearlyBest_2023/) |
