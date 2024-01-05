@@ -156,3 +156,4 @@
 | [2023年小结 - 迷你日志](https://minirizhi.com/483.html) | 851 | [IA](https://web.archive.org/web/20240105111654/https://minirizhi.com/483.html) |
 | [2023年终总结 - 焦虑的一年 - Deepzz's Blog](https://deepzz.com/post/2023-year-end.html) | 188 | [IA](https://web.archive.org/web/20240105123601/https://deepzz.com/post/2023-year-end.html) |
 | [佳 2023 - 素生](http://z.arlmy.me/posts/YearlyBest/YearlyBest_2023/) | 272 | [IA](https://web.archive.org/web/20240105123652/https://z.arlmy.me/posts/YearlyBest/YearlyBest_2023/) |
+| [折返点 2352 - 2023年 跑步总结 - Conge](https://conge.livingwithfcs.org/2023/12/31/ReturnPoint-2023/) | 1499 | [IA](https://web.archive.org/web/20240105124210/https://conge.livingwithfcs.org/2023/12/31/ReturnPoint-2023/) |
