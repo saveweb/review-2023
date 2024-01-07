@@ -1,5 +1,6 @@
 | Article | Blog\_ID | Archive |
 | --- | --- | --- |
+| [我的2023年 - 二丫讲梵](https://wiki.eryajf.net/pages/ed9d0f/) | Null | [AT](https://archive.md/t7LOf) |
 | [2023年总结 – 巷子深的生活](https://szx.life/2023-nian-zong-jie/) | Null | [AT](https://archive.md/t7LOf) |
 | [回顾2023年：千磨万击还坚劲，任尔东西南北风 - 陶小桃Blog](https://www.52txr.cn/2023/2023zongjie.html) | 1615 | [AT](https://archive.md/1GBmp) |
 | [2023 · 光影交织之年 - 静かな森](https://innei.in/notes/160) | 286 | [IA](https://web.archive.org/web/20231223183019/https://innei.in/notes/160) |
