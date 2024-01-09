@@ -159,3 +159,4 @@
 | [佳 2023 - 素生](http://z.arlmy.me/posts/YearlyBest/YearlyBest_2023/) | 272 | [IA](https://web.archive.org/web/20240105123652/https://z.arlmy.me/posts/YearlyBest/YearlyBest_2023/) |
 | [折返点 2352 - 2023年 跑步总结 - Conge](https://conge.livingwithfcs.org/2023/12/31/ReturnPoint-2023/) | 1499 | [IA](https://web.archive.org/web/20240105124210/https://conge.livingwithfcs.org/2023/12/31/ReturnPoint-2023/) |
 | [2023年年度总结 - 废柴乙乙的Blog！](https://echiru.top/index.php/archives/26/) |  | [IA](https://web.archive.org/web/20240105185258/https://echiru.top/index.php/archives/26/) |
+| [2023年总结 - Ginta's Blog](https://ginta.top/2024/01/09/1039/) |  | [IA](http://web.archive.org/web/20240109023159/https://ginta.top/2024/01/09/1039/) |
