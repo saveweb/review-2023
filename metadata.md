@@ -179,3 +179,4 @@
 | [Hello.2023 - 森木志](https://www.imxxz.cn/archives/1254.html) | 828 | [IA](http://web.archive.org/web/20240110034756/https://www.imxxz.cn/archives/1254.html) |
 | [凄凉又做他乡人——2023年终总结 - Aicsukの世界](https://www.aicsuk.net/liferecord/2023zj/) | 512 | [IA](http://web.archive.org/web/20240110063046/https://www.aicsuk.net/liferecord/2023zj/) |
 | [2023 年总结 - 卡瓦邦噶！](https://www.kawabangga.com/posts/5616) | 991 | [IA](http://web.archive.org/web/20240110063245/https://www.kawabangga.com/posts/5616) |
+| [2023 - DRAPORLAND](https://drapor.me/240101_2023/) |  | [IA](https://web.archive.org/web/20240110151610/https://drapor.me/240101_2023/) |
