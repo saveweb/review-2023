@@ -160,3 +160,19 @@
 | [折返点 2352 - 2023年 跑步总结 - Conge](https://conge.livingwithfcs.org/2023/12/31/ReturnPoint-2023/) | 1499 | [IA](https://web.archive.org/web/20240105124210/https://conge.livingwithfcs.org/2023/12/31/ReturnPoint-2023/) |
 | [2023年年度总结 - 废柴乙乙的Blog！](https://echiru.top/index.php/archives/26/) |  | [IA](https://web.archive.org/web/20240105185258/https://echiru.top/index.php/archives/26/) |
 | [2023年总结 - Ginta's Blog](https://ginta.top/2024/01/09/1039/) |  | [IA](http://web.archive.org/web/20240109023159/https://ginta.top/2024/01/09/1039/) |
+| [生活的幻觉 - 2023年播客总结 - To the Lighthouse](https://owlswims.com/2023-podcasts/) | 1602 | [IA](http://web.archive.org/web/20240110025436/https://owlswims.com/2023-podcasts/) |
+| [个人的2023年回顾以及2024的计划 - Teach Talk](https://www.ttalk.im/2024/01/review-in-2023-new-plan-in-2024.html) | 203 | [IA](http://web.archive.org/web/20240110025833/https://www.ttalk.im/2024/01/review-in-2023-new-plan-in-2024.html) |
+| [2023读了些什么 - 小枫大梦](http://nanvon.cn/article/2023-book-list) | 1715 | [IA](http://web.archive.org/web/20240110030024/https://www.nanvon.cn/article/2023-book-list) |
+| [Fluid Dream 2023 - Dawner](https://dawner.top/posts/fluid-dream-2023/) | 373 | [IA](http://web.archive.org/web/20240110030313/https://dawner.top/posts/fluid-dream-2023/) |
+| [二〇二三 - Dawner](https://dawner.top/posts/2023/) | 373 | [IA](http://web.archive.org/web/20240110030614/https://dawner.top/posts/2023/) |
+| [2023 平稳过渡 - DIYGod - 写代码是热爱，写到世界充满爱!](https://diygod.cc/2023) | 28 | [IA](http://web.archive.org/web/20240110030845/https://diygod.cc/2023) |
+| [别再问我什么是 2023 - 2023年终总结 - 查令十字街 84 号](https://www.javis.me/i-dont-know/) | 1127 | [IA](http://web.archive.org/web/20240110031207/https://www.javis.me/i-dont-know/) |
+| [Hi 2024 - JalenChuh](https://jalenz.cn/life/hi-2024/) | 425 | [IA](http://web.archive.org/web/20240110031348/https://jalenz.cn/life/hi-2024/) |
+| [2023年终总结 - victoryang00’ blog](https://asplos.dev/wordpress/2023/12/28/2023nian-zhong-zong-jie/) | 1597 | [IA](http://web.archive.org/web/20240110031528/https://asplos.dev/wordpress/2023/12/28/2023nian-zhong-zong-jie/) |
+| [2023 读书清单 - Changkun's Blog](https://changkun.de/blog/posts/2023-reading/) | 1099 | [IA](http://web.archive.org/web/20240110031724/https://changkun.de/blog/posts/2023-reading/) |
+| [我的2023年 - 二丫讲梵](https://wiki.eryajf.net/pages/ed9d0f/) | 364 | [IA](http://web.archive.org/web/20240110031926/https://wiki.eryajf.net/pages/ed9d0f/#%E5%B7%A5%E4%BD%9C) |
+| [2023 – 2024 跨年博客 - Fatesinger](https://fatesinger.com/102275) | 1107 | [IA](http://web.archive.org/web/20240110032158/https://fatesinger.com/102275) |
+| [在 2023 年末的随笔 - 鱼类观测研究所](https://lz233.ac.cn/2023/12/26/musings-in-late-2023/) | 1589 | [IA](http://web.archive.org/web/20240110032527/https://lz233.ac.cn/2023/12/26/musings-in-late-2023/) |
+| [2024年的第一周，暨去年下半年的总结 - 尚寂新](https://shangjixin.com/archives/2024-diyi-zhou.html) | 1406 | [IA](http://web.archive.org/web/20240110032734/https://shangjixin.com/archives/2024-diyi-zhou.html) |
+| [203 - gq's blog](https://zgq.ink/posts/2023-summary) | 1529 | [IA](http://web.archive.org/web/20240110032844/https://zgq.ink/posts/2023-summary) |
+| [我的 2023 - 61's life](http://61.life/2024/0106) | 314 | [IA](http://web.archive.org/web/20240110033318/https://61.life/2024/0106) |
