@@ -177,3 +177,5 @@
 | [203 - gq's blog](https://zgq.ink/posts/2023-summary) | 1529 | [IA](http://web.archive.org/web/20240110032844/https://zgq.ink/posts/2023-summary) |
 | [我的 2023 - 61's life](http://61.life/2024/0106) | 314 | [IA](http://web.archive.org/web/20240110033318/https://61.life/2024/0106) |
 | [Hello.2023 - 森木志](https://www.imxxz.cn/archives/1254.html) | 828 | [IA](http://web.archive.org/web/20240110034756/https://www.imxxz.cn/archives/1254.html) |
+| [凄凉又做他乡人——2023年终总结 - Aicsukの世界](https://www.aicsuk.net/liferecord/2023zj/) | 512 | [IA](http://web.archive.org/web/20240110063046/https://www.aicsuk.net/liferecord/2023zj/) |
+| [2023 年总结 - 卡瓦邦噶！](https://www.kawabangga.com/posts/5616) | 991 | [IA](http://web.archive.org/web/20240110063245/https://www.kawabangga.com/posts/5616) |
