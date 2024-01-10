@@ -176,3 +176,4 @@
 | [2024年的第一周，暨去年下半年的总结 - 尚寂新](https://shangjixin.com/archives/2024-diyi-zhou.html) | 1406 | [IA](http://web.archive.org/web/20240110032734/https://shangjixin.com/archives/2024-diyi-zhou.html) |
 | [203 - gq's blog](https://zgq.ink/posts/2023-summary) | 1529 | [IA](http://web.archive.org/web/20240110032844/https://zgq.ink/posts/2023-summary) |
 | [我的 2023 - 61's life](http://61.life/2024/0106) | 314 | [IA](http://web.archive.org/web/20240110033318/https://61.life/2024/0106) |
+| [Hello.2023 - 森木志](https://www.imxxz.cn/archives/1254.html) | 828 | [IA](http://web.archive.org/web/20240110034756/https://www.imxxz.cn/archives/1254.html) |
