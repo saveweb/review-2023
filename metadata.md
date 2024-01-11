@@ -182,3 +182,7 @@
 | [2023 年总结 - 卡瓦邦噶！](https://www.kawabangga.com/posts/5616) | 991 | [IA](http://web.archive.org/web/20240110063245/https://www.kawabangga.com/posts/5616) |
 | [2023 - DRAPORLAND](https://drapor.me/240101_2023/) |  | [IA](https://web.archive.org/web/20240110151610/https://drapor.me/240101_2023/) |
 | [想象力的制图师 - 2023 我最喜欢的十本书 - To the Lighthouse](https://owlswims.com/2023-reading/) | 1602 | [IA](http://web.archive.org/web/20240110173533/https://owlswims.com/2023-reading/) |
+| [2023年终总结 - Yunyi's Blog](https://www.yunyitang.me/zh/blog/life/2023/) |  | [IA](http://web.archive.org/web/20240111232012/https://www.yunyitang.me/zh/blog/life/2023/) |
+| [2023：空虚与煎熬的低谷 - Revincx的小破站](https://blog.revincx.icu/posts/2023-review/) |  | [IA](http://web.archive.org/web/20240111232122/https://blog.revincx.icu/posts/2023-review/#%E5%86%99%E5%9C%A8%E6%9C%80%E5%90%8E) |
+| [2023年终总结 - FrenchPicnic's Nothing Life](https://frenchpicnic.github.io/posts/c262e439/) |  | [IA](http://web.archive.org/web/20240111232324/https://frenchpicnic.github.io/posts/c262e439/) |
+| [2023年度总结 - 安和Blog](https://ahcorn.github.io/p/2023/) |  | [IA](http://web.archive.org/web/20240111232509/https://ahcorn.github.io/p/2023/) |
