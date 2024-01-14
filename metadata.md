@@ -186,3 +186,5 @@
 | [2023：空虚与煎熬的低谷 - Revincx的小破站](https://blog.revincx.icu/posts/2023-review/) |  | [IA](http://web.archive.org/web/20240111232122/https://blog.revincx.icu/posts/2023-review/#%E5%86%99%E5%9C%A8%E6%9C%80%E5%90%8E) |
 | [2023年终总结 - FrenchPicnic's Nothing Life](https://frenchpicnic.github.io/posts/c262e439/) |  | [IA](http://web.archive.org/web/20240111232324/https://frenchpicnic.github.io/posts/c262e439/) |
 | [2023年度总结 - 安和Blog](https://ahcorn.github.io/p/2023/) |  | [IA](http://web.archive.org/web/20240111232509/https://ahcorn.github.io/p/2023/) |
+| [2023年度报告 - Harper Talk](https://ehnap.me/2023/12/31/annual-2023/) |  | [IA](https://web.archive.org/web/20240114152110/https://ehnap.me/2023/12/31/annual-2023/) |
+| [2023，这一年发布的文字就是我的年终总结 - Another dayu](https://anotherdayu.com/2024/5574/) |  | [IA](https://web.archive.org/web/20240114142540/https://anotherdayu.com/2024/5574/) |
