@@ -173,7 +173,7 @@
 | [2023 读书清单 - Changkun's Blog](https://changkun.de/blog/posts/2023-reading/) | 1099 | [IA](http://web.archive.org/web/20240110031724/https://changkun.de/blog/posts/2023-reading/) |
 | [我的2023年 - 二丫讲梵](https://wiki.eryajf.net/pages/ed9d0f/) | 364 | [IA](http://web.archive.org/web/20240110031926/https://wiki.eryajf.net/pages/ed9d0f/#%E5%B7%A5%E4%BD%9C) |
 | [2023 – 2024 跨年博客 - Fatesinger](https://fatesinger.com/102275) | 1107 | [IA](http://web.archive.org/web/20240110032158/https://fatesinger.com/102275) |
-| [在 2023 年末的随笔 - 鱼类观测研究所](https://lz233.ac.cn/2023/12/26/musings-in-late-2023/) | 1589 | [IA](http://web.archive.org/web/20240110032527/https://lz233.ac.cn/2023/12/26/musings-in-late-2023/) |
+| [在 2023 年末的随笔 - 鱼类观测研究所](https://lz233.ac.cn/posts/musings-in-late-2023/) | 1589 | [IA](https://web.archive.org/web/20240114160154/https://lz233.ac.cn/posts/musings-in-late-2023/) |
 | [2024年的第一周，暨去年下半年的总结 - 尚寂新](https://shangjixin.com/archives/2024-diyi-zhou.html) | 1406 | [IA](http://web.archive.org/web/20240110032734/https://shangjixin.com/archives/2024-diyi-zhou.html) |
 | [203 - gq's blog](https://zgq.ink/posts/2023-summary) | 1529 | [IA](http://web.archive.org/web/20240110032844/https://zgq.ink/posts/2023-summary) |
 | [我的 2023 - 61's life](http://61.life/2024/0106) | 314 | [IA](http://web.archive.org/web/20240110033318/https://61.life/2024/0106) |
@@ -188,3 +188,12 @@
 | [2023年度总结 - 安和Blog](https://ahcorn.github.io/p/2023/) |  | [IA](http://web.archive.org/web/20240111232509/https://ahcorn.github.io/p/2023/) |
 | [2023年度报告 - Harper Talk](https://ehnap.me/2023/12/31/annual-2023/) |  | [IA](https://web.archive.org/web/20240114152110/https://ehnap.me/2023/12/31/annual-2023/) |
 | [2023，这一年发布的文字就是我的年终总结 - Another dayu](https://anotherdayu.com/2024/5574/) |  | [IA](https://web.archive.org/web/20240114142540/https://anotherdayu.com/2024/5574/) |
+| [2023，逃离仿徨 - Airing 的小屋](https://blog.ursb.me/posts/summary-2023/) | 1441 |[IA](https://web.archive.org/web/20240114154829/https://blog.ursb.me/posts/summary-2023/) |
+| [2023 年跑步总结 - Lei Mao's Log Book](https://leimao.github.io/essay/2023%E5%B9%B4%E8%B7%91%E6%AD%A5%E6%80%BB%E7%BB%93/) | 1205 | [IA](https://web.archive.org/web/20240114155104/https://leimao.github.io/essay/2023%E5%B9%B4%E8%B7%91%E6%AD%A5%E6%80%BB%E7%BB%93/) |
+| [【年终总结】2023，约取博观 - 一叶知秋](https://blog.rain.cx/year-by-year/2023-observe-more-say-less/) | 1222 | [IA](https://web.archive.org/web/20240114155338/https://blog.rain.cx/year-by-year/2023-observe-more-say-less/) |
+| [我的2023 - ZMonster's Blog](http://www.zmonster.me/2024/01/12/annual-summary-of-2023.html) | 456 | [IA](https://web.archive.org/web/20240114155426/https://www.zmonster.me/2024/01/12/annual-summary-of-2023.html) |
+| [迎接二〇二四 - 荷戟独彷徨](https://guanqr.com/life/ideas/summary-of-2023/) | 995 | [IA](https://web.archive.org/web/20240114155514/https://guanqr.com/life/ideas/summary-of-2023/) |
+| [2023，另一个角度 - Rachel's Blog](https://blog.rachelt.one/articles/2023-2024/) | 897 | [IA](https://web.archive.org/web/20240114155707/https://blog.rachelt.one/articles/2023-2024/) |
+| [流浪博客:我的2023年总结 - 染念Blog](https://dyedd.cn/1003.html) | 1650 | [IA](https://web.archive.org/web/20240114155852/https://dyedd.cn/1003.html) |
+| [2023年度书籍回顾 - Domon](https://www.domon.cn/2023nian-du-shu-ji-hui-gu/) | 1178 | [IA](https://web.archive.org/web/20240114155947/https://www.domon.cn/2023nian-du-shu-ji-hui-gu/) |
+| [2023年终总结 - SaraKale's blog](https://sarakale.top/blog/posts/c262e439.html) | 1711 | [IA](https://web.archive.org/web/20240114160047/https://sarakale.top/blog/posts/c262e439.html) |
