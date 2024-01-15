@@ -197,3 +197,5 @@
 | [流浪博客:我的2023年总结 - 染念Blog](https://dyedd.cn/1003.html) | 1650 | [IA](https://web.archive.org/web/20240114155852/https://dyedd.cn/1003.html) |
 | [2023年度书籍回顾 - Domon](https://www.domon.cn/2023nian-du-shu-ji-hui-gu/) | 1178 | [IA](https://web.archive.org/web/20240114155947/https://www.domon.cn/2023nian-du-shu-ji-hui-gu/) |
 | [2023年终总结 - SaraKale's blog](https://sarakale.top/blog/posts/c262e439.html) | 1711 | [IA](https://web.archive.org/web/20240114160047/https://sarakale.top/blog/posts/c262e439.html) |
+| [/var/log/os-update/18.2.1f.log - Mare_Infinitus](https://lab.imgb.space/post/2023-new-start) | 1632 | [IA](https://web.archive.org/web/20240115182433/https://lab.imgb.space/post/2023-new-start) |
+| [迟来的2023年终总结 - iTimothy](https://xiaozhou.net/2023-summary-2024-01-15.html) | 65 | [IA](https://web.archive.org/web/20240115182551/https://xiaozhou.net/2023-summary-2024-01-15.html) |
