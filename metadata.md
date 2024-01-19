@@ -203,3 +203,6 @@
 | [A new beginning - EzraKnotLab](https://ezraknotlab.github.io/post/a-new-beginning/) |  | [IA](https://web.archive.org/web/20240119040345/https://ezraknotlab.github.io/post/a-new-beginning/) |
 | [</2023><2024> - lijialiang.dev](https://lijialiang.dev/posts/2023-12-31) |  | [IA](https://web.archive.org/web/20240119040619/https://lijialiang.dev/posts/2023-12-31) |
 | [写在2024—毁天灭地 当世真神 - New Youth](https://bestcoder.cn/2024-2) |  | [IA](https://web.archive.org/web/20240119040751/https://bestcoder.cn/2024-2) |
+| [2023年总结 - 桑弧蓬矢射四方](https://iphyer.github.io/blog/2024/01/15/2023Summary/) | 224 | [IA](https://web.archive.org/web/20240119041321/https://iphyer.github.io/blog/2024/01/15/2023Summary/) |
+| [2023 一蓑烟雨 - GeekPlux](https://geekplux.com/posts/2023-summary) | 94 | [IA](https://web.archive.org/web/20240119041433/https://geekplux.com/posts/2023-summary) |
+| [2023年終總結 - 覆沉](https://blog.ryey.icu/2023-summary.html) | 1256 | [IA](https://web.archive.org/web/20240119041740/https://blog.ryey.icu/2023-summary.html) |
