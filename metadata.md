@@ -199,3 +199,4 @@
 | [2023年终总结 - SaraKale's blog](https://sarakale.top/blog/posts/c262e439.html) | 1711 | [IA](https://web.archive.org/web/20240114160047/https://sarakale.top/blog/posts/c262e439.html) |
 | [/var/log/os-update/18.2.1f.log - Mare_Infinitus](https://lab.imgb.space/post/2023-new-start) | 1632 | [IA](https://web.archive.org/web/20240115182433/https://lab.imgb.space/post/2023-new-start) |
 | [迟来的2023年终总结 - iTimothy](https://xiaozhou.net/2023-summary-2024-01-15.html) | 65 | [IA](https://web.archive.org/web/20240115182551/https://xiaozhou.net/2023-summary-2024-01-15.html) |
+| [2023 年度总结 - Shawn's Blog](https://blog.just666.com/2023/12/31/2023-bye/) |  | [IA](https://web.archive.org/web/20240119014530/https://blog.just666.com/2023/12/31/2023-bye/) |
