@@ -200,3 +200,6 @@
 | [/var/log/os-update/18.2.1f.log - Mare_Infinitus](https://lab.imgb.space/post/2023-new-start) | 1632 | [IA](https://web.archive.org/web/20240115182433/https://lab.imgb.space/post/2023-new-start) |
 | [迟来的2023年终总结 - iTimothy](https://xiaozhou.net/2023-summary-2024-01-15.html) | 65 | [IA](https://web.archive.org/web/20240115182551/https://xiaozhou.net/2023-summary-2024-01-15.html) |
 | [2023 年度总结 - Shawn's Blog](https://blog.just666.com/2023/12/31/2023-bye/) |  | [IA](https://web.archive.org/web/20240119014530/https://blog.just666.com/2023/12/31/2023-bye/) |
+| [A new beginning - EzraKnotLab](https://ezraknotlab.github.io/post/a-new-beginning/) |  | [IA](https://web.archive.org/web/20240119040345/https://ezraknotlab.github.io/post/a-new-beginning/) |
+| [</2023><2024> - lijialiang.dev](https://lijialiang.dev/posts/2023-12-31) |  | [IA](https://web.archive.org/web/20240119040619/https://lijialiang.dev/posts/2023-12-31) |
+| [写在2024—毁天灭地 当世真神 - New Youth](https://bestcoder.cn/2024-2) |  | [IA](https://web.archive.org/web/20240119040751/https://bestcoder.cn/2024-2) |
