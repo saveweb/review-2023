@@ -206,3 +206,4 @@
 | [2023年总结 - 桑弧蓬矢射四方](https://iphyer.github.io/blog/2024/01/15/2023Summary/) | 224 | [IA](https://web.archive.org/web/20240119041321/https://iphyer.github.io/blog/2024/01/15/2023Summary/) |
 | [2023 一蓑烟雨 - GeekPlux](https://geekplux.com/posts/2023-summary) | 94 | [IA](https://web.archive.org/web/20240119041433/https://geekplux.com/posts/2023-summary) |
 | [2023年終總結 - 覆沉](https://blog.ryey.icu/2023-summary.html) | 1256 | [IA](https://web.archive.org/web/20240119041740/https://blog.ryey.icu/2023-summary.html) |
+|[2023年度总结\|换城市、买房、健康状况 - 粥里有勺糖](https://sugarat.top/offer/experience/2023summary.html)| |[IA](https://web.archive.org/web/20240119070635/https://sugarat.top/offer/experience/2023summary.html)|
