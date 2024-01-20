@@ -213,3 +213,4 @@
 | [[年度总结] 走一座迷宫 寻一家灯火 - MatrixCore](https://matrixcore.top/article/231230) | 1730 | [IA](https://web.archive.org/web/20240119151648/https://matrixcore.top/article/231230) |
 | [PeterJXL 的 2023年度总结 - 从01开始](https://www.peterjxl.com/About/summary-2023/) | 1729 | [IA](https://web.archive.org/web/20240120042746/https://www.peterjxl.com/About/summary-2023/) |
 | [2023年度总结&&2024年度规划 - luxinfeng的blog](https://www.luxinfeng.top/article/20240107) | 1733 | [AT](http://archive.today/C3TRb) |
+| [年度总结-2023 - StrnasnX](https://stringmax.xyz/post/19) | 1747 | [IA](https://web.archive.org/web/20240120065605/https://stringmax.xyz/post/19) |
