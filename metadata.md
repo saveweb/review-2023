@@ -211,3 +211,4 @@
 | [这一年我们上线的运维自动化系统 - 运维咖啡吧](https://blog.ops-coffee.cn/s/2023-devops-service-platform-tools) |  | [IA](https://web.archive.org/web/20240119151411/https://blog.ops-coffee.cn/s/2023-devops-service-platform-tools) |
 | [两周年复盘 - 笔艺花园](http://124.222.21.127/index.php/thinking/review-2nd.html) |  | [IA](https://web.archive.org/web/20240119151409/http://124.222.21.127/index.php/thinking/review-2nd.html) |
 | [[年度总结] 走一座迷宫 寻一家灯火 - MatrixCore](https://matrixcore.top/article/231230) |  | [IA](https://web.archive.org/web/20240119151648/https://matrixcore.top/article/231230) |
+| [PeterJXL 的 2023年度总结 - 从01开始](https://www.peterjxl.com/About/summary-2023/) |  | [IA](https://web.archive.org/web/20240120042746/https://www.peterjxl.com/About/summary-2023/) |
