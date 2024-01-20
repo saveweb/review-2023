@@ -212,3 +212,4 @@
 | [两周年复盘 - 笔艺花园](http://124.222.21.127/index.php/thinking/review-2nd.html) | 1731 | [IA](https://web.archive.org/web/20240119151409/http://124.222.21.127/index.php/thinking/review-2nd.html) |
 | [[年度总结] 走一座迷宫 寻一家灯火 - MatrixCore](https://matrixcore.top/article/231230) | 1730 | [IA](https://web.archive.org/web/20240119151648/https://matrixcore.top/article/231230) |
 | [PeterJXL 的 2023年度总结 - 从01开始](https://www.peterjxl.com/About/summary-2023/) | 1729 | [IA](https://web.archive.org/web/20240120042746/https://www.peterjxl.com/About/summary-2023/) |
+| [2023年度总结&&2024年度规划 - luxinfeng的blog](https://www.luxinfeng.top/article/20240107) | 1733 | [AT](http://archive.today/C3TRb) |
