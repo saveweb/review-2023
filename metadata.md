@@ -206,9 +206,9 @@
 | [2023年总结 - 桑弧蓬矢射四方](https://iphyer.github.io/blog/2024/01/15/2023Summary/) | 224 | [IA](https://web.archive.org/web/20240119041321/https://iphyer.github.io/blog/2024/01/15/2023Summary/) |
 | [2023 一蓑烟雨 - GeekPlux](https://geekplux.com/posts/2023-summary) | 94 | [IA](https://web.archive.org/web/20240119041433/https://geekplux.com/posts/2023-summary) |
 | [2023年終總結 - 覆沉](https://blog.ryey.icu/2023-summary.html) | 1256 | [IA](https://web.archive.org/web/20240119041740/https://blog.ryey.icu/2023-summary.html) |
-|[2023年度总结 - 换城市、买房、健康状况 - 粥里有勺糖](https://sugarat.top/offer/experience/2023summary.html)| |[IA](https://web.archive.org/web/20240119070635/https://sugarat.top/offer/experience/2023summary.html)|
-| [2023，使用房车这一年 - 运维咖啡吧](https://blog.ops-coffee.cn/r/2023-rv-travel-camping-and-vanlife) |  | [IA](https://web.archive.org/web/20240119151151/https://blog.ops-coffee.cn/r/2023-rv-travel-camping-and-vanlife) |
-| [这一年我们上线的运维自动化系统 - 运维咖啡吧](https://blog.ops-coffee.cn/s/2023-devops-service-platform-tools) |  | [IA](https://web.archive.org/web/20240119151411/https://blog.ops-coffee.cn/s/2023-devops-service-platform-tools) |
-| [两周年复盘 - 笔艺花园](http://124.222.21.127/index.php/thinking/review-2nd.html) |  | [IA](https://web.archive.org/web/20240119151409/http://124.222.21.127/index.php/thinking/review-2nd.html) |
-| [[年度总结] 走一座迷宫 寻一家灯火 - MatrixCore](https://matrixcore.top/article/231230) |  | [IA](https://web.archive.org/web/20240119151648/https://matrixcore.top/article/231230) |
-| [PeterJXL 的 2023年度总结 - 从01开始](https://www.peterjxl.com/About/summary-2023/) |  | [IA](https://web.archive.org/web/20240120042746/https://www.peterjxl.com/About/summary-2023/) |
+|[2023年度总结 - 换城市、买房、健康状况 - 粥里有勺糖](https://sugarat.top/offer/experience/2023summary.html)| 1732 |[IA](https://web.archive.org/web/20240119070635/https://sugarat.top/offer/experience/2023summary.html)|
+| [2023，使用房车这一年 - 运维咖啡吧](https://blog.ops-coffee.cn/r/2023-rv-travel-camping-and-vanlife) | 1461 | [IA](https://web.archive.org/web/20240119151151/https://blog.ops-coffee.cn/r/2023-rv-travel-camping-and-vanlife) |
+| [这一年我们上线的运维自动化系统 - 运维咖啡吧](https://blog.ops-coffee.cn/s/2023-devops-service-platform-tools) | 1461 | [IA](https://web.archive.org/web/20240119151411/https://blog.ops-coffee.cn/s/2023-devops-service-platform-tools) |
+| [两周年复盘 - 笔艺花园](http://124.222.21.127/index.php/thinking/review-2nd.html) | 1731 | [IA](https://web.archive.org/web/20240119151409/http://124.222.21.127/index.php/thinking/review-2nd.html) |
+| [[年度总结] 走一座迷宫 寻一家灯火 - MatrixCore](https://matrixcore.top/article/231230) | 1730 | [IA](https://web.archive.org/web/20240119151648/https://matrixcore.top/article/231230) |
+| [PeterJXL 的 2023年度总结 - 从01开始](https://www.peterjxl.com/About/summary-2023/) | 1729 | [IA](https://web.archive.org/web/20240120042746/https://www.peterjxl.com/About/summary-2023/) |
