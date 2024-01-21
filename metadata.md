@@ -214,3 +214,7 @@
 | [PeterJXL 的 2023年度总结 - 从01开始](https://www.peterjxl.com/About/summary-2023/) | 1729 | [IA](https://web.archive.org/web/20240120042746/https://www.peterjxl.com/About/summary-2023/) |
 | [2023年度总结&&2024年度规划 - luxinfeng的blog](https://www.luxinfeng.top/article/20240107) | 1733 | [AT](http://archive.today/C3TRb) |
 | [年度总结-2023 - StrnasnX](https://stringmax.xyz/post/19) | 1747 | [IA](https://web.archive.org/web/20240120065605/https://stringmax.xyz/post/19) |
+| [给 2023 加个标题 - Rene 的个人网站](https://rene.wang/p/2023) | 1748 | [IA](https://web.archive.org/web/20240121040305/https://rene.wang/p/2023) |
+| [2023 - 命题作文 - Seviche.cc](https://seviche.cc/2024-01-20-2023) | 1562 | [IA](https://web.archive.org/web/20240121065236/https://seviche.cc/2024-01-20-2023/) |
+| [2023 Web 开发年度观察报告 - CodeSky](https://www.codesky.me/archives/2023-web-dev-report.wind) | 219 | [IA](https://web.archive.org/web/20240121065614/https://www.codesky.me/archives/2023-web-dev-report.wind) |
+| [Annual Summary in 2023 - WeepingDogel's Blog](http://weepingdogel.github.io/posts/2023-annual-summary/) | 903 | [IA](https://web.archive.org/web/20240121065811/https://weepingdogel.github.io/posts/2023-annual-summary/) |
