@@ -220,3 +220,4 @@
 | [Annual Summary in 2023 - WeepingDogel's Blog](http://weepingdogel.github.io/posts/2023-annual-summary/) | 903 | [IA](https://web.archive.org/web/20240121065811/https://weepingdogel.github.io/posts/2023-annual-summary/) |
 | [凡所有相，皆是虚妄 (虽迟但到的2023年总结) - 胡涂说](https://hutusi.com/articles/awareness-2023-review) | 236 | [IA](https://web.archive.org/web/20240120221953/https://hutusi.com/articles/awareness-2023-review) |
 | [小树的 2023 年终总结 - 一颗小树](https://yeshu.cloud/posts/annual-summary-2023) | 1749 | [IA](https://web.archive.org/web/20240122020538/https://yeshu.cloud/posts/annual-summary-2023) |
+| [2023 年终总结 - 老兄de博客](https://www.moec.top/archives/3147) | 1349 | [IA](https://web.archive.org/web/20240123045451/https://www.moec.top/archives/3147) |
