@@ -1,5 +1,6 @@
 | Article | Blog\_ID | Archive |
 | --- | --- | --- |
+| [再见, 2023-Nemo](https://nemo.cool/1042.html) |  | [IA](https://web.archive.org/web/20240120055828/https://nemo.cool/1042.html) |
 | [个人大数据：涂俊杰 2023 年的 8760 小时 - 涂俊杰JunJie - 时间记录践行者](https://blog.tujunjie.com/20240104175320) | Null | [IA](http://web.archive.org/web/20240111154525/https://blog.tujunjie.com/20240104175320) |
 | [我的2023年 - 二丫讲梵](https://wiki.eryajf.net/pages/ed9d0f/) | Null | [AT](https://archive.md/t7LOf) |
 | [2023年总结 – 巷子深的生活](https://szx.life/2023-nian-zong-jie/) | Null | [AT](https://archive.md/t7LOf) |
@@ -16,7 +17,7 @@
 | [📜 我的 2023：新的改变，新的成长，新的开始 - 千雪的咖啡厅](https://blog.chyk.ink/2023/12/23/my-2023-summary/) | 1706 | [IA](https://web.archive.org/web/20231224035111/https://blog.chyk.ink/2023/12/23/my-2023-summary/) |
 | [常轨脱离 Misanthrope - krau's blog](https://krau.top/posts/mashed-potato-future) | 1707 | [IA](https://web.archive.org/web/20231224040237/https://krau.top/posts/mashed-potato-future) |
 | [2023 年概览 - Elizen](https://elizen.me/posts/2023/12/hello-2024/) | 534 | [IA](https://web.archive.org/web/20231224044111/https://elizen.me/posts/2023/12/hello-2024/) |
-| [2023年度总结 - 太空编程](https://spacexcode.com/blog/yearly-summary/) | Null | [IA](http://web.archive.org/web/20231224163812/https://spacexcode.com/blog/yearly-summary/)
+| [2023年度总结 - 太空编程](https://spacexcode.com/blog/yearly-summary/) | Null | [IA](http://web.archive.org/web/20231224163812/https://spacexcode.com/blog/yearly-summary/)|
 | [2023·年度回顾 - NullPointerException](https://omn.cc/archives/40.html) | Null | [IA](http://web.archive.org/web/20231225070507/https://omn.cc/archives/40.html) |
 | [2023年终总结 - Joe’s Blog](https://hijiangtao.github.io/2023/12/24/Letter-to-2023/) | 269 | [IA](http://web.archive.org/web/20231225073727/https://hijiangtao.github.io/2023/12/24/Letter-to-2023/) |
 | [2023（上篇）- Shadow Walker 松烟阁](https://www.edony.ink/2023/) | 1489 | [IA](http://web.archive.org/web/20231225074100/https://www.edony.ink/2023/) |
