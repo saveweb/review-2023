@@ -9,7 +9,7 @@ body:
       value: |
         感谢你的投稿
         
-        请在标题处填写您的文章标题和网站名称，中间使用 `-` 隔开
+        请在标题处填写您的文章标题和网站名称，中间使用 ` - ` 隔开
   - type: input
     id: post_url
     attributes:
