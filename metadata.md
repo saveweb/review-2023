@@ -222,3 +222,4 @@
 | [小树的 2023 年终总结 - 一颗小树](https://yeshu.cloud/posts/annual-summary-2023) | 1749 | [IA](https://web.archive.org/web/20240122020538/https://yeshu.cloud/posts/annual-summary-2023) |
 | [2023 年终总结 - 老兄de博客](https://www.moec.top/archives/3147) | 1349 | [IA](https://web.archive.org/web/20240123045451/https://www.moec.top/archives/3147) |
 | [2023年个人总结 - 码农明明桑](https://isming.me/2024-01-24-2023-summary/) |  | [IA](https://web.archive.org/web/20240124155933/https://isming.me/2024-01-24-2023-summary/) |
+| [2023年年终总结: 多和优秀的人在一起玩 - 小赖子的英国生活和资讯](https://justyy.com/archives/64006)| 793 | [IA](https://web.archive.org/web/20240124174815/https://justyy.com/archives/64006) |
