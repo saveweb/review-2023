@@ -223,3 +223,4 @@
 | [2023 年终总结 - 老兄de博客](https://www.moec.top/archives/3147) | 1349 | [IA](https://web.archive.org/web/20240123045451/https://www.moec.top/archives/3147) |
 | [2023年个人总结 - 码农明明桑](https://isming.me/2024-01-24-2023-summary/) |  | [IA](https://web.archive.org/web/20240124155933/https://isming.me/2024-01-24-2023-summary/) |
 | [2023年年终总结: 多和优秀的人在一起玩 - 小赖子的英国生活和资讯](https://justyy.com/archives/64006)| 793 | [IA](https://web.archive.org/web/20240124174815/https://justyy.com/archives/64006) |
+| [2023年终总结 - 别闹了程序猿](http://hui61.com/blog/zh/2023-year-end-review/) |  | [IA](https://web.archive.org/web/20240129035119/http://hui61.com/blog/zh/2023-year-end-review/) |
