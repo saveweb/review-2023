@@ -225,3 +225,6 @@
 | [2023年年终总结: 多和优秀的人在一起玩 - 小赖子的英国生活和资讯](https://justyy.com/archives/64006)| 793 | [IA](https://web.archive.org/web/20240124174815/https://justyy.com/archives/64006) |
 | [2023年终总结 - 别闹了程序猿](http://hui61.com/blog/zh/2023-year-end-review/) | 1751 | [IA](https://web.archive.org/web/20240129035119/http://hui61.com/blog/zh/2023-year-end-review/) |
 | [在每个人的世界中——我的二零二三年 - DGideas' Blog](https://dgideas.net/2024/in-everyones-world-my-2023/) | 1003 | [IA](https://web.archive.org/web/20240129044248/https://dgideas.net/2024/in-everyones-world-my-2023/) |
+| [2023 年度回顾 & 2024 年度规划 - XAOXUU](https://xaoxuu.com/blog/20240129/) | 1231 | [IA](https://web.archive.org/web/20240131092935/https://xaoxuu.com/blog/20240129/) |
+| [2023 年终总结 - rxliuli blog](https://blog.rxliuli.com/p/b35e33c4e6c54587ac315967bbcc12b3/) | 719 | [IA](https://web.archive.org/web/20240131093140/https://blog.rxliuli.com/p/b35e33c4e6c54587ac315967bbcc12b3/) |
+| [2023 安河桥 - Free Thought](https://yigengjiang.github.io/2023_summary/) | 1752 | [IA](https://web.archive.org/web/20240129101453/https://yigengjiang.github.io/2023_summary/) |
