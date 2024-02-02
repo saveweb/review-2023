@@ -228,3 +228,4 @@
 | [2023 年度回顾 & 2024 年度规划 - XAOXUU](https://xaoxuu.com/blog/20240129/) | 1231 | [IA](https://web.archive.org/web/20240131092935/https://xaoxuu.com/blog/20240129/) |
 | [2023 年终总结 - rxliuli blog](https://blog.rxliuli.com/p/b35e33c4e6c54587ac315967bbcc12b3/) | 719 | [IA](https://web.archive.org/web/20240131093140/https://blog.rxliuli.com/p/b35e33c4e6c54587ac315967bbcc12b3/) |
 | [2023 安河桥 - Free Thought](https://yigengjiang.github.io/2023_summary/) | 1752 | [IA](https://web.archive.org/web/20240129101453/https://yigengjiang.github.io/2023_summary/) |
+| [我的2023年 - Raye's Journey](https://rayepeng.net/my2023) | 1753 | [IA](https://web.archive.org/web/20240202095416/https://rayepeng.net/my2023) |
