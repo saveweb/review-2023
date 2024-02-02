@@ -229,3 +229,6 @@
 | [2023 年终总结 - rxliuli blog](https://blog.rxliuli.com/p/b35e33c4e6c54587ac315967bbcc12b3/) | 719 | [IA](https://web.archive.org/web/20240131093140/https://blog.rxliuli.com/p/b35e33c4e6c54587ac315967bbcc12b3/) |
 | [2023 安河桥 - Free Thought](https://yigengjiang.github.io/2023_summary/) | 1752 | [IA](https://web.archive.org/web/20240129101453/https://yigengjiang.github.io/2023_summary/) |
 | [我的2023年 - Raye's Journey](https://rayepeng.net/my2023) | 1753 | [IA](https://web.archive.org/web/20240202095416/https://rayepeng.net/my2023) |
+| [小年夜啦！（及2023网络生活小结） - 火喵博客･日记本](https://www.mmbkz.cn/5379bde8.html) | 1013 | [IA](https://web.archive.org/web/20240202151131/https://www.mmbkz.cn/5379bde8.html) |
+| [23年年终总结和24年展望 - 少年行](https://www.miraclezhb.com/archives/1703469410263) | 1754 | [IA](https://web.archive.org/web/20240202151312/https://www.miraclezhb.com/archives/1703469410263) |
+| [Shimoko 2023 年度总结 - Shimoko](https://www.shimoko.com/p/shimoko2023/) | 1755 | [IA](https://web.archive.org/web/20240202152528/https://www.shimoko.com/p/shimoko2023/) |
