@@ -232,3 +232,6 @@
 | [小年夜啦！（及2023网络生活小结） - 火喵博客･日记本](https://www.mmbkz.cn/5379bde8.html) | 1013 | [IA](https://web.archive.org/web/20240202151131/https://www.mmbkz.cn/5379bde8.html) |
 | [23年年终总结和24年展望 - 少年行](https://www.miraclezhb.com/archives/1703469410263) | 1754 | [IA](https://web.archive.org/web/20240202151312/https://www.miraclezhb.com/archives/1703469410263) |
 | [Shimoko 2023 年度总结 - Shimoko](https://www.shimoko.com/p/shimoko2023/) | 1755 | [IA](https://web.archive.org/web/20240202152528/https://www.shimoko.com/p/shimoko2023/) |
+| [2022年度关键词总结：好奇 - 笨方法学写作](https://cnfeat.com/2022/12/12/curiousness1.html) | 57 | [IA](https://web.archive.org/web/20240205051826/https://www.cnfeat.com/2022/12/12/curiousness1.html) |
+| [我的 2023 年度关键词：科学 - 笨方法学写作](https://cnfeat.com/2023/01/09/Sci.html) | 57 | [IA](https://web.archive.org/web/20240205051829/https://www.cnfeat.com/2023/01/09/Sci.html) |
+| [我的2023 - 构建我的被动收入](https://www.bmpi.dev/self/annual-summary/2023/) | 313 | [IA](https://web.archive.org/web/20240205051915/https://www.bmpi.dev/self/annual-summary/2023/) |
