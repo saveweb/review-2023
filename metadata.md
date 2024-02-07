@@ -235,3 +235,6 @@
 | [2022年度关键词总结：好奇 - 笨方法学写作](https://cnfeat.com/2022/12/12/curiousness1.html) | 57 | [IA](https://web.archive.org/web/20240205051826/https://www.cnfeat.com/2022/12/12/curiousness1.html) |
 | [我的 2023 年度关键词：科学 - 笨方法学写作](https://cnfeat.com/2023/01/09/Sci.html) | 57 | [IA](https://web.archive.org/web/20240205051829/https://www.cnfeat.com/2023/01/09/Sci.html) |
 | [我的2023 - 构建我的被动收入](https://www.bmpi.dev/self/annual-summary/2023/) | 313 | [IA](https://web.archive.org/web/20240205051915/https://www.bmpi.dev/self/annual-summary/2023/) |
+| [2023 年度总结 - 4Ark](https://4ark.me/post/2023-summary.html) | 922 | [IA](https://web.archive.org/web/20240207014406/https://4ark.me/post/2023-summary.html) |
+| [huige的2023年年终总结 - huige233's blog](https://huige233.github.io/vuepress-theme/pages/19b896/) | Null | [IA](https://web.archive.org/web/20240207014632/https://huige233.github.io/vuepress-theme/pages/19b896/#%E7%A8%8B%E5%BA%8F) |
+| [「迟来的2023年终总结」 – XIaolii"s Blog](https://xiaolii.com/archives/532) | Null | [IA](https://web.archive.org/web/20240207014717/https://xiaolii.com/archives/532) |
