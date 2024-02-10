@@ -238,3 +238,6 @@
 | [2023 年度总结 - 4Ark](https://4ark.me/post/2023-summary.html) | 922 | [IA](https://web.archive.org/web/20240207014406/https://4ark.me/post/2023-summary.html) |
 | [huige的2023年年终总结 - huige233's blog](https://huige233.github.io/vuepress-theme/pages/19b896/) | Null | [IA](https://web.archive.org/web/20240207014632/https://huige233.github.io/vuepress-theme/pages/19b896/#%E7%A8%8B%E5%BA%8F) |
 | [「迟来的2023年终总结」 – XIaolii"s Blog](https://xiaolii.com/archives/532) | Null | [IA](https://web.archive.org/web/20240207014717/https://xiaolii.com/archives/532) |
+| [请回答 2023 - Eddie 的博客](https://www.eddiehe.top/article/annual-review-2023) | 1756 | [AT](https://archive.ph/Y4BiM) |
+| [Hi! 2024 - 戴兜的小屋](https://daidr.me/archives/website-1150.html) | 1456 | [IA](https://web.archive.org/web/20240210130729/https://daidr.me/archives/website-1150.html) |
+| [2023年度总结 - 西行妖](https://my.toho.red/posts/2023summary/) | 1684 | [IA](https://web.archive.org/web/20240210130928/https://my.toho.red/posts/2023summary/) |
