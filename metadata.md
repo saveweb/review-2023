@@ -241,3 +241,4 @@
 | [请回答 2023 - Eddie 的博客](https://www.eddiehe.top/article/annual-review-2023) | 1756 | [AT](https://archive.ph/Y4BiM) |
 | [Hi! 2024 - 戴兜的小屋](https://daidr.me/archives/website-1150.html) | 1456 | [IA](https://web.archive.org/web/20240210130729/https://daidr.me/archives/website-1150.html) |
 | [2023年度总结 - 西行妖](https://my.toho.red/posts/2023summary/) | 1684 | [IA](https://web.archive.org/web/20240210130928/https://my.toho.red/posts/2023summary/) |
+| [2023 年终总结 - forecho 的独立博客](https://blog.forecho.com/review-of-2023.html) | 92 | [IA](https://web.archive.org/web/20240211153400/https://blog.forecho.com/review-of-2023.html) |
