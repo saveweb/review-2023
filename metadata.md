@@ -49,7 +49,7 @@
 | [📖2023 阅读记录 - 61's life](http://61.life/2023/1230) | 314 | [IA](https://web.archive.org/web/20231230150624/https://61.life/2023/1230) |
 | [我的二零二三 - JiaYin's Life](https://imjiayin.com/5208) | 861 | [IA](https://web.archive.org/web/20231230152058/https://imjiayin.com/5208) |
 | [2023 年终总结 - 老高的博客](https://blog.mute-g.com/post/work/summary-2023.html) | 249 | [IA](https://web.archive.org/web/20231230152212/https://blog.mute-g.com/post/work/summary-2023.html) |
-| [2023_年终总结_关键词 - NotionNext BLOG](https://www.xmylog.com/article/articles_review_2023) | 1683 | [IA](https://web.archive.org/web/20231230152405/https://www.xmylog.com/article/articles_review_2023) |
+| [2023_年终总结_关键词 - X·myLog](https://www.xmylog.com/article/articles_review_2023) | 1683 | [IA](https://web.archive.org/web/20231230152405/https://www.xmylog.com/article/articles_review_2023) |
 | [2023 年度游戏总结 - Free Mind](http://freemind.pluskid.org/misc/2023-games) | 1300 | [IA](https://web.archive.org/web/20231230152609/https://freemind.pluskid.org/misc/2023-games/) |
 | [2023 年终总结 - Ursa Major](http://elfile4138.moe/2023/12/2023-Recap/) | 1625 | [IA](https://web.archive.org/web/20231230152712/https://elfile4138.moe/2023/12/2023-Recap/) |
 | [2023,在朋友圈的一年 - 你好我是森林](https://demochen.com/posts/20231229/) | 1631 | [IA](https://web.archive.org/web/20231230152755/https://demochen.com/posts/20231229/) |
@@ -242,3 +242,6 @@
 | [Hi! 2024 - 戴兜的小屋](https://daidr.me/archives/website-1150.html) | 1456 | [IA](https://web.archive.org/web/20240210130729/https://daidr.me/archives/website-1150.html) |
 | [2023年度总结 - 西行妖](https://my.toho.red/posts/2023summary/) | 1684 | [IA](https://web.archive.org/web/20240210130928/https://my.toho.red/posts/2023summary/) |
 | [2023 年终总结 - forecho 的独立博客](https://blog.forecho.com/review-of-2023.html) | 92 | [IA](https://web.archive.org/web/20240211153400/https://blog.forecho.com/review-of-2023.html) |
+| [请回答 2023 - NotionNext BLOG](https://www.eddiehe.top/article/annual-review-2023) | 1756 | [IA](https://web.archive.org/web/20240215171223/https://www.eddiehe.top/article/annual-review-2023) |
+| [2023 年，我都在推些什么 - Re:Linked](https://blog.outv.im/2024/following-2023/) | 1696 | [IA](https://web.archive.org/web/20240215171525/https://blog.outv.im/2024/following-2023/) |
+| [白昼离去，而我逗留：我的2023年终总结 - InfinitySpace](https://blog.langdon.one/archives/day-departs-while-i-linger-my-2023-yearend-summary.html) | 1757 | [IA](https://web.archive.org/web/20240215171842/https://blog.langdon.one/archives/day-departs-while-i-linger-my-2023-yearend-summary.html) |
