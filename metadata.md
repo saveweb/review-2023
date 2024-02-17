@@ -245,3 +245,4 @@
 | [请回答 2023 - NotionNext BLOG](https://www.eddiehe.top/article/annual-review-2023) | 1756 | [IA](https://web.archive.org/web/20240215171223/https://www.eddiehe.top/article/annual-review-2023) |
 | [2023 年，我都在推些什么 - Re:Linked](https://blog.outv.im/2024/following-2023/) | 1696 | [IA](https://web.archive.org/web/20240215171525/https://blog.outv.im/2024/following-2023/) |
 | [白昼离去，而我逗留：我的2023年终总结 - InfinitySpace](https://blog.langdon.one/archives/day-departs-while-i-linger-my-2023-yearend-summary.html) | 1757 | [IA](https://web.archive.org/web/20240215171842/https://blog.langdon.one/archives/day-departs-while-i-linger-my-2023-yearend-summary.html) |
+| [我的 2023 - 欠陥電気の摸鱼小池](https://blog.apeiria.net/2023/my-2023/) | 1774 | [IA](https://web.archive.org/web/20240217162009/https://blog.apeiria.net/2023/my-2023/) |
