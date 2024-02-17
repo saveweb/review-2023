@@ -247,3 +247,4 @@
 | [白昼离去，而我逗留：我的2023年终总结 - InfinitySpace](https://blog.langdon.one/archives/day-departs-while-i-linger-my-2023-yearend-summary.html) | 1757 | [IA](https://web.archive.org/web/20240215171842/https://blog.langdon.one/archives/day-departs-while-i-linger-my-2023-yearend-summary.html) |
 | [我的 2023 - 欠陥電気の摸鱼小池](https://blog.apeiria.net/2023/my-2023/) | 1774 | [IA](https://web.archive.org/web/20240217162009/https://blog.apeiria.net/2023/my-2023/) |
 | [FGHRSH 2023 年度报告 - FGHRSH 的博客](https://www.fghrsh.net/post/198.html) | 1784 | [IA](https://web.archive.org/web/20240204121557/https://www.fghrsh.net/post/198.html) |
+| [2023 年终报告 - GZTime's Blog](https://blog.gzti.me/posts/2023/43ee528a/) | 1787 | [IA](https://web.archive.org/web/20240104172744/https://blog.gzti.me/posts/2023/43ee528a/) |
