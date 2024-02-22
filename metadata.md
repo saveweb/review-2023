@@ -1,6 +1,6 @@
 | Article | Blog\_ID | Archive |
 | --- | --- | --- |
-| [2023年度总督 - popring's blog](https://popring.github.io/2024/02/17/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | Null | [IA](https://web.archive.org/web/20240222060541/https://popring.github.io/2024/02/17/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
+| [2023年度总结 - popring's blog](https://popring.github.io/2024/02/17/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) | Null | [IA](https://web.archive.org/web/20240222060541/https://popring.github.io/2024/02/17/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/) |
 | [个人大数据：涂俊杰 2023 年的 8760 小时 - 涂俊杰JunJie - 时间记录践行者](https://blog.tujunjie.com/20240104175320) | Null | [IA](http://web.archive.org/web/20240111154525/https://blog.tujunjie.com/20240104175320) |
 | [我的2023年 - 二丫讲梵](https://wiki.eryajf.net/pages/ed9d0f/) | Null | [AT](https://archive.md/t7LOf) |
 | [2023年总结 – 巷子深的生活](https://szx.life/2023-nian-zong-jie/) | Null | [AT](https://archive.md/t7LOf) |
