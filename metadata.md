@@ -250,3 +250,4 @@
 | [FGHRSH 2023 年度报告 - FGHRSH 的博客](https://www.fghrsh.net/post/198.html) | 1784 | [IA](https://web.archive.org/web/20240204121557/https://www.fghrsh.net/post/198.html) |
 | [2023 年终报告 - GZTime's Blog](https://blog.gzti.me/posts/2023/43ee528a/) | 1787 | [IA](https://web.archive.org/web/20240104172744/https://blog.gzti.me/posts/2023/43ee528a/) |
 | [2021-2023年终总结：跃入人海，潮起潮落 - idealclover](https://idealclover.top/archives/637/) | 227 | [IA](https://web.archive.org/web/20240223133743/https://idealclover.top/archives/637/) |
+| [2023 回顾 - Kaffa.im](https://kaffa.im/2023-review.html) | 1793 | IA |
