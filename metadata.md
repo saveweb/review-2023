@@ -248,3 +248,4 @@
 | [我的 2023 - 欠陥電気の摸鱼小池](https://blog.apeiria.net/2023/my-2023/) | 1774 | [IA](https://web.archive.org/web/20240217162009/https://blog.apeiria.net/2023/my-2023/) |
 | [FGHRSH 2023 年度报告 - FGHRSH 的博客](https://www.fghrsh.net/post/198.html) | 1784 | [IA](https://web.archive.org/web/20240204121557/https://www.fghrsh.net/post/198.html) |
 | [2023 年终报告 - GZTime's Blog](https://blog.gzti.me/posts/2023/43ee528a/) | 1787 | [IA](https://web.archive.org/web/20240104172744/https://blog.gzti.me/posts/2023/43ee528a/) |
+| [2023 回顾](https://blog.gzti.me/posts/2023/43ee528a/) |  | |
