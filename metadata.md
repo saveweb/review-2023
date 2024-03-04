@@ -252,3 +252,4 @@
 | [2021-2023年终总结：跃入人海，潮起潮落 - idealclover](https://idealclover.top/archives/637/) | 227 | [IA](https://web.archive.org/web/20240223133743/https://idealclover.top/archives/637/) |
 | [2023 回顾 - Kaffa.im](https://kaffa.im/2023-review.html) | 1793 | [IA](https://web.archive.org/web/20240223140236/https://kaffa.im/2023-review.html) |
 | [你好，2024 - Naive Koala](https://www.xalaok.top/post/hello-2024/) | 1794 | [IA](https://web.archive.org/web/20240125184834/https://www.xalaok.top/post/hello-2024/) |
+| [2023 年终总结 - 我叫尤加利](https://youjiali1995.github.io/essay/2023-summary/) | 1301 | [IA](https://web.archive.org/web/20240304034430/https://youjiali1995.github.io/essay/2023-summary/) |
