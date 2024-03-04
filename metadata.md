@@ -253,3 +253,4 @@
 | [2023 回顾 - Kaffa.im](https://kaffa.im/2023-review.html) | 1793 | [IA](https://web.archive.org/web/20240223140236/https://kaffa.im/2023-review.html) |
 | [你好，2024 - Naive Koala](https://www.xalaok.top/post/hello-2024/) | 1794 | [IA](https://web.archive.org/web/20240125184834/https://www.xalaok.top/post/hello-2024/) |
 | [2023 年终总结 - 我叫尤加利](https://youjiali1995.github.io/essay/2023-summary/) | 1301 | [IA](https://web.archive.org/web/20240304034430/https://youjiali1995.github.io/essay/2023-summary/) |
+| [我的二零二三 – 云烟成雨](https://shiyu.dev/archives/2985/%E6%88%91%E7%9A%84%E4%BA%8C%E9%9B%B6%E4%BA%8C%E4%B8%89/) | 1645 | [IA](https://web.archive.org/web/20240304035350/https://shiyu.dev/archives/2985/%E6%88%91%E7%9A%84%E4%BA%8C%E9%9B%B6%E4%BA%8C%E4%B8%89/) |
