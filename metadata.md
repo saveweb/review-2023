@@ -254,3 +254,4 @@
 | [你好，2024 - Naive Koala](https://www.xalaok.top/post/hello-2024/) | 1794 | [IA](https://web.archive.org/web/20240125184834/https://www.xalaok.top/post/hello-2024/) |
 | [2023 年终总结 - 我叫尤加利](https://youjiali1995.github.io/essay/2023-summary/) | 1301 | [IA](https://web.archive.org/web/20240304034430/https://youjiali1995.github.io/essay/2023-summary/) |
 | [我的二零二三 – 云烟成雨](https://shiyu.dev/archives/2985/%E6%88%91%E7%9A%84%E4%BA%8C%E9%9B%B6%E4%BA%8C%E4%B8%89/) | 1645 | [IA](https://web.archive.org/web/20240304035350/https://shiyu.dev/archives/2985/%E6%88%91%E7%9A%84%E4%BA%8C%E9%9B%B6%E4%BA%8C%E4%B8%89/) |
+| [回顾 2023 - 7Wate's Blog](https://blog.7wate.com/archives/hui-gu-2023) | 1507 | [IA](https://web.archive.org/web/20240304040442/https://blog.7wate.com/archives/hui-gu-2023) |
