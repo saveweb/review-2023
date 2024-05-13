@@ -254,4 +254,5 @@
 | [2023 年终总结 - 我叫尤加利](https://youjiali1995.github.io/essay/2023-summary/) | 1301 | [IA](https://web.archive.org/web/20240304034430/https://youjiali1995.github.io/essay/2023-summary/) |
 | [我的二零二三 – 云烟成雨](https://shiyu.dev/archives/2985/%E6%88%91%E7%9A%84%E4%BA%8C%E9%9B%B6%E4%BA%8C%E4%B8%89/) | 1645 | [IA](https://web.archive.org/web/20240304035350/https://shiyu.dev/archives/2985/%E6%88%91%E7%9A%84%E4%BA%8C%E9%9B%B6%E4%BA%8C%E4%B8%89/) |
 | [回顾 2023 - 7Wate's Blog](https://blog.7wate.com/archives/hui-gu-2023) | 1507 | [IA](https://web.archive.org/web/20240304040442/https://blog.7wate.com/archives/hui-gu-2023) |
-| [2023 年终总结 - 皮普的数字花园](https://pipuwong.com/2023-in-year-review) | 1814 | [IA](https://web.archive.org/web/20240508122525/https://pipuwong.com/2023-in-year-review)
+| [2023 年终总结 - 皮普的数字花园](https://pipuwong.com/2023-in-year-review) | 1814 | [IA](https://web.archive.org/web/20240508122525/https://pipuwong.com/2023-in-year-review) |
+| [认识我自己——人生阶段性总结  - Shitao Wu 吴诗涛](https://shitao5.org/summary/2023year/) | 1818 | [IA](https://web.archive.org/web/20240513024911/https://shitao5.org/summary/2023year/) |
