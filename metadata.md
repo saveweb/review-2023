@@ -256,3 +256,4 @@
 | [回顾 2023 - 7Wate's Blog](https://blog.7wate.com/archives/hui-gu-2023) | 1507 | [IA](https://web.archive.org/web/20240304040442/https://blog.7wate.com/archives/hui-gu-2023) |
 | [2023 年终总结 - 皮普的数字花园](https://pipuwong.com/2023-in-year-review) | 1814 | [IA](https://web.archive.org/web/20240508122525/https://pipuwong.com/2023-in-year-review) |
 | [认识我自己——人生阶段性总结  - Shitao Wu 吴诗涛](https://shitao5.org/summary/2023year/) | 1818 | [IA](https://web.archive.org/web/20240513024911/https://shitao5.org/summary/2023year/) |
+| [2023，一些机会和尝试 - Archer Gu](https://archergu.me/posts/my-2023) | Null | [IA](https://web.archive.org/web/20240621051052/https://archergu.me/posts/my-2023) |
