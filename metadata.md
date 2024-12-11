@@ -258,3 +258,4 @@
 | [认识我自己——人生阶段性总结  - Shitao Wu 吴诗涛](https://shitao5.org/summary/2023year/) | 1818 | [IA](https://web.archive.org/web/20240513024911/https://shitao5.org/summary/2023year/) |
 | [2023，一些机会和尝试 - Archer Gu](https://archergu.me/posts/my-2023) | Null | [IA](https://web.archive.org/web/20240621051052/https://archergu.me/posts/my-2023) |
 | [2023 年终总结 - 要让生活「自洽」 - Muyun99](https://muyun.work/2023-summary.html) | 360 | [IA](https://web.archive.org/web/20240714064024/https://muyun.work/2023-summary.html) |
+| [2023年终总结 - NoTomorrow Club](https://blog.notomorrow.club/posts/2024-01-15-2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) | 2142 | [IA](https://web.archive.org/web/20241211074949/https://blog.notomorrow.club/posts/2024-01-15-2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) |
