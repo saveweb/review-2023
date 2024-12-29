@@ -261,3 +261,4 @@
 | [2023年终总结 - NoTomorrow Club](https://blog.notomorrow.club/posts/2024-01-15-2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) | 2142 | [IA](https://web.archive.org/web/20241211074949/https://blog.notomorrow.club/posts/2024-01-15-2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) |
 | [我的 2023 - 251 的魔法实验室](https://blog.251.sh/oh-my-2023) | 552 | [IA](https://web.archive.org/web/20241222120948/https://blog.251.sh/oh-my-2023) |
 | [🎞️𝟐𝟎𝟐𝟑•全剧终 - HUHU BLOG](https://blog.mwwlzz.top/article/bye2023) | 2186 | [IA](https://web.archive.org/web/20241229153232/https://blog.mwwlzz.top/article/bye2023) |
+| [2023年年度总结 - Kivinsae's Nest](https://www.kivinsae.com/2024/01/11/2024-01-11-Summary/) | 1899 | [IA](https://web.archive.org/web/20241229161013/https://www.kivinsae.com/2024/01/11/2024-01-11-Summary/) |
