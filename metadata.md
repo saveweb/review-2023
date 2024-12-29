@@ -260,3 +260,4 @@
 | [2023 年终总结 - 要让生活「自洽」 - Muyun99](https://muyun.work/2023-summary.html) | 360 | [IA](https://web.archive.org/web/20240714064024/https://muyun.work/2023-summary.html) |
 | [2023年终总结 - NoTomorrow Club](https://blog.notomorrow.club/posts/2024-01-15-2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) | 2142 | [IA](https://web.archive.org/web/20241211074949/https://blog.notomorrow.club/posts/2024-01-15-2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) |
 | [我的 2023 - 251 的魔法实验室](https://blog.251.sh/oh-my-2023) | 552 | [IA](https://web.archive.org/web/20241222120948/https://blog.251.sh/oh-my-2023) |
+| [🎞️𝟐𝟎𝟐𝟑•全剧终 - HUHU BLOG](https://blog.mwwlzz.top/article/bye2023) | 2186 | [IA](https://web.archive.org/web/20241229153232/https://blog.mwwlzz.top/article/bye2023) |
