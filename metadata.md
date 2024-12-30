@@ -263,3 +263,4 @@
 | [🎞️𝟐𝟎𝟐𝟑•全剧终 - HUHU BLOG](https://blog.mwwlzz.top/article/bye2023) | 2186 | [IA](https://web.archive.org/web/20241229153232/https://blog.mwwlzz.top/article/bye2023) |
 | [2023年年度总结 - Kivinsae's Nest](https://www.kivinsae.com/2024/01/11/2024-01-11-Summary/) | 1899 | [IA](https://web.archive.org/web/20241229161013/https://www.kivinsae.com/2024/01/11/2024-01-11-Summary/) |
 | [2023 年的总结 - 王大大语录](https://moonwwdz.github.io/post/2024/2024-02-06-summarize-2023/) | Null | [IA](https://web.archive.org/web/20241230092942/https://moonwwdz.github.io/post/2024/2024-02-06-summarize-2023/) |
+| [2023年度总结 - 园子里的日光](https://chlor.me/farewell-to-2023/) | 2163 | [IA](https://web.archive.org/web/20241230133610/https://chlor.me/farewell-to-2023/) |
