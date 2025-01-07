@@ -265,3 +265,4 @@
 | [2023 年的总结 - 王大大语录](https://moonwwdz.github.io/post/2024/2024-02-06-summarize-2023/) | Null | [IA](https://web.archive.org/web/20241230092942/https://moonwwdz.github.io/post/2024/2024-02-06-summarize-2023/) |
 | [2023年度总结 - 园子里的日光](https://chlor.me/farewell-to-2023/) | 2163 | [IA](https://web.archive.org/web/20241230133610/https://chlor.me/farewell-to-2023/) |
 | [RECAP2023：旧游无处不堪寻 - CLCK's Space](https://www.clckblog.space/blog/recap-2023/) | Null | [IA](https://web.archive.org/web/20250106124224/https://www.clckblog.space/blog/recap-2023/) |
+| [2023年终总结，算是吧 - 夜庭記](https://musenxi.com/archives/2023.html) | 13 | [IA](https://web.archive.org/web/20250107172614/https://musenxi.com/archives/2023.html) |
