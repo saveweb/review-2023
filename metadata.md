@@ -266,3 +266,5 @@
 | [2023年度总结 - 园子里的日光](https://chlor.me/farewell-to-2023/) | 2163 | [IA](https://web.archive.org/web/20241230133610/https://chlor.me/farewell-to-2023/) |
 | [RECAP2023：旧游无处不堪寻 - CLCK's Space](https://www.clckblog.space/blog/recap-2023/) | Null | [IA](https://web.archive.org/web/20250106124224/https://www.clckblog.space/blog/recap-2023/) |
 | [2023年终总结，算是吧 - 夜庭記](https://musenxi.com/archives/2023.html) | 13 | [IA](https://web.archive.org/web/20250107172614/https://musenxi.com/archives/2023.html) |
+| [2023-2024 - 硫酸钡的小站](https://www.slagworld.com/index.php/archives/138/) | Null | [IA](https://web.archive.org/web/20250107173616/https://www.slagworld.com/index.php/archives/138/) |
+| [2023年度总结 - wsbのblog](https://wsbblog.github.io/posts/year2023/) | 2232 | [IA](https://web.archive.org/web/20250107173601/https://wsbblog.github.io/posts/year2023/) |
