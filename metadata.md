@@ -147,7 +147,6 @@
 | [2023年终总结 - 流动](https://liudon.com/posts/review-2023/) | 1626 | [IA](http://web.archive.org/web/20240105022034/https://liudon.com/posts/review-2023/) |
 | [2023 年总结 - 卡瓦邦噶！](https://www.kawabangga.com/posts/5616) | 991 | [IA](https://web.archive.org/web/20240105110101/https://www.kawabangga.com/posts/5616) |
 | [2023 年个人总结 - 唐巧的博客](https://blog.devtang.com/2024/01/01/2023-summary/) | 115 | [IA](https://web.archive.org/web/20240105110253/https://blog.devtang.com/2024/01/01/2023-summary/) |
-| [玩具箱 - 2023年我（还）在使用哪些应用？ - 小球飞鱼](https://mantyke.icu/posts/2024/toybox5/) | 1168 | [IA](https://web.archive.org/web/20240105110347/https://mantyke.icu/posts/2024/toybox5/) |
 | [2023年跑步总结 -  Domon](https://www.domon.cn/2023nian-pao-bu-zong-jie/) | 1178 | [IA](https://web.archive.org/web/20240105110424/https://www.domon.cn/2023nian-pao-bu-zong-jie/) |
 | [2023 年终总结——穷则思变 - Muniao's blog](https://www.qtmuniao.com/2024/01/04/2023-summary/) | 7 | [IA](https://web.archive.org/web/20240105110507/https://www.qtmuniao.com/2024/01/04/2023-summary/) |
 | [2023年终总结 - 编码记录](https://liudon.com/posts/review-2023/) | 1626 | [IA](https://web.archive.org/web/20240105110541/https://liudon.com/posts/review-2023/) |
